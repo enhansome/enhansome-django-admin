@@ -33,7 +33,7 @@
             "last_commit": "2026-01-13T06:31:24Z",
             "owner": "newpanjing",
             "repo": "simpleui",
-            "stars": 3814
+            "stars": 3816
           }
         },
         {
@@ -170,7 +170,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:07:34Z",
+            "last_commit": "2026-08-13T14:44:41Z",
             "owner": "SmartBase-SK",
             "repo": "django-smartbase-admin",
             "stars": 128
@@ -246,7 +246,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T17:43:48Z",
+            "last_commit": "2026-08-13T16:29:53Z",
             "owner": "jazzband",
             "repo": "django-tinymce",
             "stars": 1352
@@ -322,7 +322,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T17:12:43Z",
+            "last_commit": "2026-08-13T13:12:30Z",
             "owner": "django-import-export",
             "repo": "django-import-export",
             "stars": 3332
@@ -442,7 +442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:14:39.452Z",
+    "last_updated": "2026-08-14T04:19:45.754Z",
     "original_repository": "originalankur/awesome-django-admin",
     "original_repository_sha": "e799f6b13cbbf521a3acbe121710318fcb3550af",
     "enhanced_repository": "enhansome/enhansome-django-admin",
