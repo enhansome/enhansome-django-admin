@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T07:43:22Z",
+            "last_commit": "2026-08-14T08:02:37Z",
             "owner": "unfoldadmin",
             "repo": "django-unfold",
-            "stars": 3625
+            "stars": 3627
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-06-25T21:05:32Z",
             "owner": "farridav",
             "repo": "django-jazzmin",
-            "stars": 1876
+            "stars": 1877
           }
         },
         {
@@ -170,7 +170,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T14:44:41Z",
+            "last_commit": "2026-08-14T10:36:29Z",
             "owner": "SmartBase-SK",
             "repo": "django-smartbase-admin",
             "stars": 128
@@ -322,7 +322,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T13:12:30Z",
+            "last_commit": "2026-08-14T19:06:12Z",
             "owner": "django-import-export",
             "repo": "django-import-export",
             "stars": 3332
@@ -442,7 +442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:19:45.754Z",
+    "last_updated": "2026-08-15T03:08:15.194Z",
     "original_repository": "originalankur/awesome-django-admin",
     "original_repository_sha": "e799f6b13cbbf521a3acbe121710318fcb3550af",
     "enhanced_repository": "enhansome/enhansome-django-admin",
