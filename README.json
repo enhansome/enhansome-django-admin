@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T08:02:37Z",
+            "last_commit": "2026-08-16T09:22:59Z",
             "owner": "unfoldadmin",
             "repo": "django-unfold",
             "stars": 3628
@@ -249,7 +249,7 @@
             "last_commit": "2026-08-15T05:10:37Z",
             "owner": "jazzband",
             "repo": "django-tinymce",
-            "stars": 1352
+            "stars": 1353
           }
         },
         {
@@ -442,7 +442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:15:33.507Z",
+    "last_updated": "2026-08-17T03:15:29.356Z",
     "original_repository": "originalankur/awesome-django-admin",
     "original_repository_sha": "e799f6b13cbbf521a3acbe121710318fcb3550af",
     "enhanced_repository": "enhansome/enhansome-django-admin",
