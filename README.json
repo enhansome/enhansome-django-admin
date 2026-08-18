@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T09:22:59Z",
+            "last_commit": "2026-08-17T23:18:01Z",
             "owner": "unfoldadmin",
             "repo": "django-unfold",
-            "stars": 3628
+            "stars": 3627
           }
         },
         {
@@ -86,7 +86,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T18:02:43Z",
+            "last_commit": "2026-08-17T18:15:52Z",
             "owner": "fabiocaccamo",
             "repo": "django-admin-interface",
             "stars": 2036
@@ -170,7 +170,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T10:36:29Z",
+            "last_commit": "2026-08-17T10:58:12Z",
             "owner": "SmartBase-SK",
             "repo": "django-smartbase-admin",
             "stars": 128
@@ -246,7 +246,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T05:10:37Z",
+            "last_commit": "2026-08-17T17:53:11Z",
             "owner": "jazzband",
             "repo": "django-tinymce",
             "stars": 1353
@@ -260,7 +260,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T18:02:46Z",
+            "last_commit": "2026-08-17T18:15:52Z",
             "owner": "fabiocaccamo",
             "repo": "django-colorfield",
             "stars": 661
@@ -322,7 +322,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:06:12Z",
+            "last_commit": "2026-08-17T20:36:26Z",
             "owner": "django-import-export",
             "repo": "django-import-export",
             "stars": 3332
@@ -442,7 +442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:15:29.356Z",
+    "last_updated": "2026-08-18T03:11:51.941Z",
     "original_repository": "originalankur/awesome-django-admin",
     "original_repository_sha": "e799f6b13cbbf521a3acbe121710318fcb3550af",
     "enhanced_repository": "enhansome/enhansome-django-admin",
