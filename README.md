@@ -17,7 +17,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 * [django-admin-bootstrap](https://github.com/django-admin-bootstrap/django-admin-bootstrap) ⚠️ Archived
 * [django-jet-reboot](https://github.com/assem-ch/django-jet-reboot) ⭐ 495 | 🐛 38 | 🌐 CSS | 📅 2026-02-01
 * [django-semantic-admin](https://github.com/globophobe/django-semantic-admin) ⭐ 183 | 🐛 6 | 🌐 Python | 📅 2026-08-11
-* [django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) ⭐ 128 | 🐛 2 | 🌐 Python | 📅 2026-08-17
+* [django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) ⭐ 128 | 🐛 2 | 🌐 Python | 📅 2026-08-19
 * [django-admin-tailwind](https://github.com/Aleksi44/django-admin-tailwind) ⭐ 65 | 🐛 6 | 🌐 HTML | 📅 2025-04-29
 * [djing](https://github.com/djing-admin/djing) ⭐ 7 | 🐛 0 | 🌐 Vue | 📅 2025-06-15
 * [django-admin-volt](https://github.com/app-generator/django-admin-volt) ⭐ 0 | 🐛 0 | 📅 2026-07-11

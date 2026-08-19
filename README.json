@@ -1,449 +1,479 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "django-grappelli",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580566,
+                "language": "HTML",
+                "last_commit": "2026-08-10T08:20:47Z",
+                "owner": "sehmaschine",
+                "repo": "django-grappelli",
+                "stars": 3942
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-simpleui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147495704,
+                "language": "Python",
+                "last_commit": "2026-01-13T06:31:24Z",
+                "owner": "newpanjing",
+                "repo": "simpleui",
+                "stars": 3816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-unfold",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 526497574,
+                "language": "Python",
+                "last_commit": "2026-08-18T08:31:48Z",
+                "owner": "unfoldadmin",
+                "repo": "django-unfold",
+                "stars": 3627
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Django-material",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29337344,
+                "language": "JavaScript",
+                "last_commit": "2026-05-02T04:00:38Z",
+                "owner": "viewflow",
+                "repo": "django-material",
+                "stars": 2540
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-suit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8250018,
+                "language": "SCSS",
+                "last_commit": "2025-05-27T14:06:26Z",
+                "owner": "darklow",
+                "repo": "django-suit",
+                "stars": 2408
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-admin-interface",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44974847,
+                "language": "Python",
+                "last_commit": "2026-08-17T18:15:52Z",
+                "owner": "fabiocaccamo",
+                "repo": "django-admin-interface",
+                "stars": 2036
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-jazzmin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263143255,
+                "language": "HTML",
+                "last_commit": "2026-06-25T21:05:32Z",
+                "owner": "farridav",
+                "repo": "django-jazzmin",
+                "stars": 1877
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-baton",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81565159,
+                "language": "Python",
+                "last_commit": "2026-08-09T13:52:27Z",
+                "owner": "otto-torino",
+                "repo": "django-baton",
+                "stars": 995
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-admin-bootstrap",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 5063914,
+                "language": "HTML",
+                "last_commit": "2022-10-10T08:21:49Z",
+                "owner": "douglasmiranda",
+                "repo": "django-admin-bootstrap",
+                "stars": 877
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-jet-reboot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 325018181,
+                "language": "CSS",
+                "last_commit": "2026-02-01T15:34:19Z",
+                "owner": "assem-ch",
+                "repo": "django-jet-reboot",
+                "stars": 495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-semantic-admin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112842634,
+                "language": "Python",
+                "last_commit": "2026-08-11T10:23:43Z",
+                "owner": "globophobe",
+                "repo": "django-semantic-admin",
+                "stars": 183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-smartbase-admin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 770247041,
+                "language": "Python",
+                "last_commit": "2026-08-19T11:39:30Z",
+                "owner": "SmartBase-SK",
+                "repo": "django-smartbase-admin",
+                "stars": 128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-admin-tailwind",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 373488828,
+                "language": "HTML",
+                "last_commit": "2025-04-29T07:46:33Z",
+                "owner": "Aleksi44",
+                "repo": "django-admin-tailwind",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "djing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 911152302,
+                "language": "Vue",
+                "last_commit": "2025-06-15T05:56:41Z",
+                "owner": "djing-admin",
+                "repo": "djing",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-admin-volt",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1297159183,
+                "language": null,
+                "last_commit": "2026-07-11T05:37:51Z",
+                "owner": "app-generator",
+                "repo": "django-admin-volt",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Alternative Themes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "django-simple-captcha",
+              "description": "Add captcha images to any Django form",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3929597,
+                "language": "Python",
+                "last_commit": "2026-07-30T13:53:47Z",
+                "owner": "mbi",
+                "repo": "django-simple-captcha",
+                "stars": 1422
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-tinymce",
+              "description": "TinyMCE text editor integration for Django",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 907262,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T17:53:11Z",
+                "owner": "jazzband",
+                "repo": "django-tinymce",
+                "stars": 1353
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-colorfield",
+              "description": "Color field for django models with a nice color-picker in the admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 645063,
+                "language": "Python",
+                "last_commit": "2026-08-17T18:15:52Z",
+                "owner": "fabiocaccamo",
+                "repo": "django-colorfield",
+                "stars": 661
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-json-widget",
+              "description": "An alternative widget that makes it easy to edit the Django's JSONField",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91264973,
+                "language": "Python",
+                "last_commit": "2026-05-08T14:22:29Z",
+                "owner": "jmrivas86",
+                "repo": "django-json-widget",
+                "stars": 508
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[https://github.com/bhch/django-jsonform",
+              "description": "] - A user-friendly JSON editing form for django admin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400714962,
+                "language": "Python",
+                "last_commit": "2025-01-29T22:30:21Z",
+                "owner": "bhch",
+                "repo": "django-jsonform",
+                "stars": 428
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-image-uploader-widget",
+              "description": "An beautiful image uploader widget (and inline) for django-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 374257556,
+                "language": "HTML",
+                "last_commit": "2026-04-23T12:22:17Z",
+                "owner": "EduardoJM",
+                "repo": "django-image-uploader-widget",
+                "stars": 63
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Widgets / Fields"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "django-import-export",
+              "description": "Django application and library for importing and exporting data with admin integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6704888,
+                "language": "Python",
+                "last_commit": "2026-08-17T20:36:26Z",
+                "owner": "django-import-export",
+                "repo": "django-import-export",
+                "stars": 3331
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-adminactions",
+              "description": "Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5646851,
+                "language": "Python",
+                "last_commit": "2026-05-19T15:15:51Z",
+                "owner": "saxix",
+                "repo": "django-adminactions",
+                "stars": 699
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-admin-confirm",
+              "description": "Adds confirmations to changes, additions and actions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 311132778,
+                "language": "Python",
+                "last_commit": "2026-08-01T08:37:12Z",
+                "owner": "TrangPham",
+                "repo": "django-admin-confirm",
+                "stars": 138
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Actions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "djangoql",
+              "description": "Advanced search language for Django",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85814425,
+                "language": "Python",
+                "last_commit": "2026-01-27T03:42:34Z",
+                "owner": "ivelum",
+                "repo": "djangoql",
+                "stars": 1138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-admin-honeypot",
+              "description": "A fake Django admin login screen to notify admins of attempted unauthorized access.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2382101,
+                "language": "Python",
+                "last_commit": "2024-04-10T14:22:38Z",
+                "owner": "dmpayton",
+                "repo": "django-admin-honeypot",
+                "stars": 1085
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-admin-tools",
+              "description": "Collection of extensions/tools for the default django administration interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37767159,
+                "language": "Python",
+                "last_commit": "2023-08-10T12:40:54Z",
+                "owner": "django-admin-tools",
+                "repo": "django-admin-tools",
+                "stars": 895
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-admin-easy",
+              "description": "Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way Edit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24751850,
+                "language": "Python",
+                "last_commit": "2025-03-06T04:03:05Z",
+                "owner": "ebertti",
+                "repo": "django-admin-easy",
+                "stars": 502
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-admin-env-notice",
+              "description": "Visually distinguish environments in Django Admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94886742,
+                "language": "Python",
+                "last_commit": "2026-01-22T18:23:13Z",
+                "owner": "dizballanze",
+                "repo": "django-admin-env-notice",
+                "stars": 344
+              }
+            }
+          ],
+          "description": "Visit DjangoPackages.com to found more admin packages.",
+          "node_type": "group",
+          "title": "Packages"
+        }
+      ],
       "title": "Packages to install at your project"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "django-grappelli",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-10T08:20:47Z",
-            "owner": "sehmaschine",
-            "repo": "django-grappelli",
-            "stars": 3942
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-simpleui",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-13T06:31:24Z",
-            "owner": "newpanjing",
-            "repo": "simpleui",
-            "stars": 3816
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-unfold",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T08:31:48Z",
-            "owner": "unfoldadmin",
-            "repo": "django-unfold",
-            "stars": 3627
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Django-material",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-02T04:00:38Z",
-            "owner": "viewflow",
-            "repo": "django-material",
-            "stars": 2540
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-suit",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "SCSS",
-            "last_commit": "2025-05-27T14:06:26Z",
-            "owner": "darklow",
-            "repo": "django-suit",
-            "stars": 2408
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-admin-interface",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T18:15:52Z",
-            "owner": "fabiocaccamo",
-            "repo": "django-admin-interface",
-            "stars": 2036
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-jazzmin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-06-25T21:05:32Z",
-            "owner": "farridav",
-            "repo": "django-jazzmin",
-            "stars": 1877
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-baton",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-09T13:52:27Z",
-            "owner": "otto-torino",
-            "repo": "django-baton",
-            "stars": 995
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-admin-bootstrap",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HTML",
-            "last_commit": "2022-10-10T08:21:49Z",
-            "owner": "douglasmiranda",
-            "repo": "django-admin-bootstrap",
-            "stars": 877
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-jet-reboot",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-02-01T15:34:19Z",
-            "owner": "assem-ch",
-            "repo": "django-jet-reboot",
-            "stars": 495
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-semantic-admin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T10:23:43Z",
-            "owner": "globophobe",
-            "repo": "django-semantic-admin",
-            "stars": 183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-smartbase-admin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T10:58:12Z",
-            "owner": "SmartBase-SK",
-            "repo": "django-smartbase-admin",
-            "stars": 128
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-admin-tailwind",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-04-29T07:46:33Z",
-            "owner": "Aleksi44",
-            "repo": "django-admin-tailwind",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "djing",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2025-06-15T05:56:41Z",
-            "owner": "djing-admin",
-            "repo": "djing",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-admin-volt",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-11T05:37:51Z",
-            "owner": "app-generator",
-            "repo": "django-admin-volt",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Alternative Themes"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "django-simple-captcha",
-          "description": "Add captcha images to any Django form",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-30T13:53:47Z",
-            "owner": "mbi",
-            "repo": "django-simple-captcha",
-            "stars": 1422
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-tinymce",
-          "description": "TinyMCE text editor integration for Django",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T17:53:11Z",
-            "owner": "jazzband",
-            "repo": "django-tinymce",
-            "stars": 1353
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-colorfield",
-          "description": "Color field for django models with a nice color-picker in the admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T18:15:52Z",
-            "owner": "fabiocaccamo",
-            "repo": "django-colorfield",
-            "stars": 661
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-json-widget",
-          "description": "An alternative widget that makes it easy to edit the Django's JSONField",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-08T14:22:29Z",
-            "owner": "jmrivas86",
-            "repo": "django-json-widget",
-            "stars": 508
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[https://github.com/bhch/django-jsonform",
-          "description": "] - A user-friendly JSON editing form for django admin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-29T22:30:21Z",
-            "owner": "bhch",
-            "repo": "django-jsonform",
-            "stars": 428
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-image-uploader-widget",
-          "description": "An beautiful image uploader widget (and inline) for django-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-04-23T12:22:17Z",
-            "owner": "EduardoJM",
-            "repo": "django-image-uploader-widget",
-            "stars": 63
-          }
-        }
-      ],
-      "title": "Widgets / Fields"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "django-import-export",
-          "description": "Django application and library for importing and exporting data with admin integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T20:36:26Z",
-            "owner": "django-import-export",
-            "repo": "django-import-export",
-            "stars": 3331
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-adminactions",
-          "description": "Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-19T15:15:51Z",
-            "owner": "saxix",
-            "repo": "django-adminactions",
-            "stars": 699
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-admin-confirm",
-          "description": "Adds confirmations to changes, additions and actions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-01T08:37:12Z",
-            "owner": "TrangPham",
-            "repo": "django-admin-confirm",
-            "stars": 138
-          }
-        }
-      ],
-      "title": "Actions"
-    },
-    {
-      "description": "Visit DjangoPackages.com to found more admin packages.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "djangoql",
-          "description": "Advanced search language for Django",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-27T03:42:34Z",
-            "owner": "ivelum",
-            "repo": "djangoql",
-            "stars": 1138
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-admin-honeypot",
-          "description": "A fake Django admin login screen to notify admins of attempted unauthorized access.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-10T14:22:38Z",
-            "owner": "dmpayton",
-            "repo": "django-admin-honeypot",
-            "stars": 1085
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-admin-tools",
-          "description": "Collection of extensions/tools for the default django administration interface.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-08-10T12:40:54Z",
-            "owner": "django-admin-tools",
-            "repo": "django-admin-tools",
-            "stars": 895
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-admin-easy",
-          "description": "Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way Edit",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-06T04:03:05Z",
-            "owner": "ebertti",
-            "repo": "django-admin-easy",
-            "stars": 502
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-admin-env-notice",
-          "description": "Visually distinguish environments in Django Admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-22T18:23:13Z",
-            "owner": "dizballanze",
-            "repo": "django-admin-env-notice",
-            "stars": 344
-          }
-        }
-      ],
-      "title": "Packages"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Learn more about Django Admin"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:13:44.513Z",
+    "last_updated": "2026-08-19T12:23:36.557Z",
     "original_repository": "originalankur/awesome-django-admin",
+    "original_repository_id": 74906893,
     "original_repository_sha": "e799f6b13cbbf521a3acbe121710318fcb3550af",
     "enhanced_repository": "enhansome/enhansome-django-admin",
     "enhanced_repository_description": null,
