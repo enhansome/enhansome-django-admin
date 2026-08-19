@@ -19,7 +19,7 @@
             "last_commit": "2026-08-10T08:20:47Z",
             "owner": "sehmaschine",
             "repo": "django-grappelli",
-            "stars": 3941
+            "stars": 3942
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-01-13T06:31:24Z",
             "owner": "newpanjing",
             "repo": "simpleui",
-            "stars": 3818
+            "stars": 3816
           }
         },
         {
@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T23:18:01Z",
+            "last_commit": "2026-08-18T08:31:48Z",
             "owner": "unfoldadmin",
             "repo": "django-unfold",
             "stars": 3627
@@ -291,7 +291,7 @@
             "last_commit": "2025-01-29T22:30:21Z",
             "owner": "bhch",
             "repo": "django-jsonform",
-            "stars": 427
+            "stars": 428
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2026-08-17T20:36:26Z",
             "owner": "django-import-export",
             "repo": "django-import-export",
-            "stars": 3332
+            "stars": 3331
           }
         },
         {
@@ -401,7 +401,7 @@
             "last_commit": "2023-08-10T12:40:54Z",
             "owner": "django-admin-tools",
             "repo": "django-admin-tools",
-            "stars": 897
+            "stars": 895
           }
         },
         {
@@ -442,7 +442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:11:51.941Z",
+    "last_updated": "2026-08-19T03:13:44.513Z",
     "original_repository": "originalankur/awesome-django-admin",
     "original_repository_sha": "e799f6b13cbbf521a3acbe121710318fcb3550af",
     "enhanced_repository": "enhansome/enhansome-django-admin",
