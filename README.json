@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 526497574,
                 "language": "Python",
-                "last_commit": "2026-08-18T08:31:48Z",
+                "last_commit": "2026-08-19T13:37:46Z",
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3627
+                "stars": 3628
               }
             },
             {
@@ -398,7 +398,7 @@
                 "last_commit": "2026-01-27T03:42:34Z",
                 "owner": "ivelum",
                 "repo": "djangoql",
-                "stars": 1138
+                "stars": 1137
               }
             },
             {
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:23:36.557Z",
+    "last_updated": "2026-08-20T03:13:10.617Z",
     "original_repository": "originalankur/awesome-django-admin",
     "original_repository_id": 74906893,
     "original_repository_sha": "e799f6b13cbbf521a3acbe121710318fcb3550af",

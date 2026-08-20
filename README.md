@@ -8,7 +8,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli) ⭐ 3,942 | 🐛 8 | 🌐 HTML | 📅 2026-08-10
 * [django-simpleui](https://github.com/newpanjing/simpleui) ⭐ 3,816 | 🐛 7 | 🌐 Python | 📅 2026-01-13
-* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,627 | 🐛 27 | 🌐 Python | 📅 2026-08-18
+* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,628 | 🐛 27 | 🌐 Python | 📅 2026-08-19
 * [Django-material](https://github.com/viewflow/django-material) ⭐ 2,540 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-02
 * [django-suit](https://github.com/darklow/django-suit) ⭐ 2,408 | 🐛 302 | 🌐 SCSS | 📅 2025-05-27
 * [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,036 | 🐛 19 | 🌐 Python | 📅 2026-08-17
@@ -41,7 +41,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 
 Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) to found more admin packages.
 
-* [djangoql](https://github.com/ivelum/djangoql) ⭐ 1,138 | 🐛 36 | 🌐 Python | 📅 2026-01-27 - Advanced search language for Django
+* [djangoql](https://github.com/ivelum/djangoql) ⭐ 1,137 | 🐛 36 | 🌐 Python | 📅 2026-01-27 - Advanced search language for Django
 * [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot/) ⭐ 1,085 | 🐛 19 | 🌐 Python | 📅 2024-04-10 - A fake Django admin login screen to notify admins of attempted unauthorized access.
 * [django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) ⭐ 895 | 🐛 22 | 🌐 Python | 📅 2023-08-10 - Collection of extensions/tools for the default django administration interface.
 * [django-admin-easy](https://github.com/ebertti/django-admin-easy) ⭐ 502 | 🐛 4 | 🌐 Python | 📅 2025-03-06 - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way Edit
@@ -89,4 +89,4 @@ Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
