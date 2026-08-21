@@ -32,7 +32,7 @@
                 "last_commit": "2026-01-13T06:31:24Z",
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3816
+                "stars": 3817
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 526497574,
                 "language": "Python",
-                "last_commit": "2026-08-19T13:37:46Z",
+                "last_commit": "2026-08-20T11:56:27Z",
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3628
+                "stars": 3629
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-17T18:15:52Z",
                 "owner": "fabiocaccamo",
                 "repo": "django-admin-interface",
-                "stars": 2036
+                "stars": 2037
               }
             },
             {
@@ -343,7 +343,7 @@
                 "archived": false,
                 "id": 6704888,
                 "language": "Python",
-                "last_commit": "2026-08-17T20:36:26Z",
+                "last_commit": "2026-08-20T12:11:35Z",
                 "owner": "django-import-export",
                 "repo": "django-import-export",
                 "stars": 3331
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:13:10.617Z",
+    "last_updated": "2026-08-21T03:25:32.104Z",
     "original_repository": "originalankur/awesome-django-admin",
     "original_repository_id": 74906893,
     "original_repository_sha": "e799f6b13cbbf521a3acbe121710318fcb3550af",
