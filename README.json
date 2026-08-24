@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-22T15:39:56Z",
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3632
+                "stars": 3636
               }
             },
             {
@@ -346,7 +346,7 @@
                 "last_commit": "2026-08-20T12:11:35Z",
                 "owner": "django-import-export",
                 "repo": "django-import-export",
-                "stars": 3331
+                "stars": 3334
               }
             },
             {
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:18:08.041Z",
+    "last_updated": "2026-08-24T03:26:58.103Z",
     "original_repository": "originalankur/awesome-django-admin",
     "original_repository_id": 74906893,
     "original_repository_sha": "e799f6b13cbbf521a3acbe121710318fcb3550af",
