@@ -32,7 +32,7 @@
                 "last_commit": "2026-01-13T06:31:24Z",
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3818
+                "stars": 3819
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 526497574,
                 "language": "Python",
-                "last_commit": "2026-08-22T15:39:56Z",
+                "last_commit": "2026-08-24T11:12:45Z",
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3636
+                "stars": 3637
               }
             },
             {
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:26:58.103Z",
+    "last_updated": "2026-08-24T14:14:14.554Z",
     "original_repository": "originalankur/awesome-django-admin",
     "original_repository_id": 74906893,
     "original_repository_sha": "e799f6b13cbbf521a3acbe121710318fcb3550af",
