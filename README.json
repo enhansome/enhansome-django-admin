@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-24T11:12:45Z",
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3637
+                "stars": 3638
               }
             },
             {
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 44974847,
                 "language": "Python",
-                "last_commit": "2026-08-17T18:15:52Z",
+                "last_commit": "2026-08-24T18:01:18Z",
                 "owner": "fabiocaccamo",
                 "repo": "django-admin-interface",
                 "stars": 2039
@@ -182,7 +182,7 @@
                 "last_commit": "2026-08-19T11:39:30Z",
                 "owner": "SmartBase-SK",
                 "repo": "django-smartbase-admin",
-                "stars": 128
+                "stars": 127
               }
             },
             {
@@ -276,7 +276,7 @@
                 "archived": false,
                 "id": 645063,
                 "language": "Python",
-                "last_commit": "2026-08-17T18:15:52Z",
+                "last_commit": "2026-08-24T18:01:19Z",
                 "owner": "fabiocaccamo",
                 "repo": "django-colorfield",
                 "stars": 661
@@ -324,7 +324,7 @@
                 "last_commit": "2026-04-23T12:22:17Z",
                 "owner": "EduardoJM",
                 "repo": "django-image-uploader-widget",
-                "stars": 63
+                "stars": 64
               }
             }
           ],
@@ -343,7 +343,7 @@
                 "archived": false,
                 "id": 6704888,
                 "language": "Python",
-                "last_commit": "2026-08-20T12:11:35Z",
+                "last_commit": "2026-08-24T17:13:30Z",
                 "owner": "django-import-export",
                 "repo": "django-import-export",
                 "stars": 3334
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:14.554Z",
+    "last_updated": "2026-08-25T03:14:59.722Z",
     "original_repository": "originalankur/awesome-django-admin",
     "original_repository_id": 74906893,
     "original_repository_sha": "e799f6b13cbbf521a3acbe121710318fcb3550af",
