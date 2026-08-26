@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-10T08:20:47Z",
                 "owner": "sehmaschine",
                 "repo": "django-grappelli",
-                "stars": 3942
+                "stars": 3943
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-01-13T06:31:24Z",
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3819
+                "stars": 3820
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 526497574,
                 "language": "Python",
-                "last_commit": "2026-08-24T11:12:45Z",
+                "last_commit": "2026-08-25T13:37:44Z",
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3638
+                "stars": 3639
               }
             },
             {
@@ -179,7 +179,7 @@
                 "archived": false,
                 "id": 770247041,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:39:30Z",
+                "last_commit": "2026-08-25T08:47:43Z",
                 "owner": "SmartBase-SK",
                 "repo": "django-smartbase-admin",
                 "stars": 127
@@ -249,7 +249,7 @@
                 "last_commit": "2026-07-30T13:53:47Z",
                 "owner": "mbi",
                 "repo": "django-simple-captcha",
-                "stars": 1422
+                "stars": 1421
               }
             },
             {
@@ -264,7 +264,7 @@
                 "last_commit": "2026-08-17T17:53:11Z",
                 "owner": "jazzband",
                 "repo": "django-tinymce",
-                "stars": 1353
+                "stars": 1354
               }
             },
             {
@@ -428,7 +428,7 @@
                 "last_commit": "2023-08-10T12:40:54Z",
                 "owner": "django-admin-tools",
                 "repo": "django-admin-tools",
-                "stars": 895
+                "stars": 894
               }
             },
             {
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:06:47.496Z",
+    "last_updated": "2026-08-26T03:28:12.420Z",
     "original_repository": "originalankur/awesome-django-admin",
     "original_repository_id": 74906893,
     "original_repository_sha": "e799f6b13cbbf521a3acbe121710318fcb3550af",
