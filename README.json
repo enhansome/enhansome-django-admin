@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 526497574,
                 "language": "Python",
-                "last_commit": "2026-08-26T10:35:22Z",
+                "last_commit": "2026-08-27T12:04:57Z",
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
                 "stars": 3642
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:36:53.652Z",
+    "last_updated": "2026-08-27T12:52:35.888Z",
     "original_repository_info": {
       "archived": false,
       "id": 74906893,
