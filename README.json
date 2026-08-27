@@ -32,7 +32,7 @@
                 "last_commit": "2026-01-13T06:31:24Z",
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3820
+                "stars": 3822
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 526497574,
                 "language": "Python",
-                "last_commit": "2026-08-25T13:37:44Z",
+                "last_commit": "2026-08-26T10:35:22Z",
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3639
+                "stars": 3642
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-05-02T04:00:38Z",
                 "owner": "viewflow",
                 "repo": "django-material",
-                "stars": 2540
+                "stars": 2541
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-24T18:01:18Z",
                 "owner": "fabiocaccamo",
                 "repo": "django-admin-interface",
-                "stars": 2039
+                "stars": 2040
               }
             },
             {
@@ -179,10 +179,10 @@
                 "archived": false,
                 "id": 770247041,
                 "language": "Python",
-                "last_commit": "2026-08-25T08:47:43Z",
+                "last_commit": "2026-08-26T16:01:38Z",
                 "owner": "SmartBase-SK",
                 "repo": "django-smartbase-admin",
-                "stars": 127
+                "stars": 128
               }
             },
             {
@@ -471,9 +471,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:28:12.420Z",
-    "original_repository": "originalankur/awesome-django-admin",
-    "original_repository_id": 74906893,
+    "last_updated": "2026-08-27T11:36:53.652Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 74906893,
+      "language": null,
+      "last_commit": "2026-02-24T16:50:33Z",
+      "owner": "originalankur",
+      "repo": "awesome-django-admin",
+      "stars": 1235
+    },
     "original_repository_sha": "e799f6b13cbbf521a3acbe121710318fcb3550af",
     "enhanced_repository": "enhansome/enhansome-django-admin",
     "enhanced_repository_description": null,

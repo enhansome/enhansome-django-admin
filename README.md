@@ -7,17 +7,17 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 ### Alternative Themes
 
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli) ⭐ 3,943 | 🐛 8 | 🌐 HTML | 📅 2026-08-10
-* [django-simpleui](https://github.com/newpanjing/simpleui) ⭐ 3,820 | 🐛 7 | 🌐 Python | 📅 2026-01-13
-* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,639 | 🐛 27 | 🌐 Python | 📅 2026-08-25
-* [Django-material](https://github.com/viewflow/django-material) ⭐ 2,540 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-02
+* [django-simpleui](https://github.com/newpanjing/simpleui) ⭐ 3,822 | 🐛 7 | 🌐 Python | 📅 2026-01-13
+* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,642 | 🐛 27 | 🌐 Python | 📅 2026-08-26
+* [Django-material](https://github.com/viewflow/django-material) ⭐ 2,541 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-02
 * [django-suit](https://github.com/darklow/django-suit) ⭐ 2,408 | 🐛 302 | 🌐 SCSS | 📅 2025-05-27
-* [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,039 | 🐛 21 | 🌐 Python | 📅 2026-08-24
+* [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,040 | 🐛 21 | 🌐 Python | 📅 2026-08-24
 * [django-jazzmin](https://github.com/farridav/django-jazzmin) ⭐ 1,877 | 🐛 174 | 🌐 HTML | 📅 2026-06-25
 * [django-baton](https://github.com/otto-torino/django-baton) ⭐ 995 | 🐛 50 | 🌐 Python | 📅 2026-08-09
 * [django-admin-bootstrap](https://github.com/django-admin-bootstrap/django-admin-bootstrap) ⚠️ Archived
 * [django-jet-reboot](https://github.com/assem-ch/django-jet-reboot) ⭐ 496 | 🐛 38 | 🌐 CSS | 📅 2026-02-01
 * [django-semantic-admin](https://github.com/globophobe/django-semantic-admin) ⭐ 183 | 🐛 6 | 🌐 Python | 📅 2026-08-11
-* [django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) ⭐ 127 | 🐛 2 | 🌐 Python | 📅 2026-08-25
+* [django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) ⭐ 128 | 🐛 2 | 🌐 Python | 📅 2026-08-26
 * [django-admin-tailwind](https://github.com/Aleksi44/django-admin-tailwind) ⭐ 65 | 🐛 6 | 🌐 HTML | 📅 2025-04-29
 * [djing](https://github.com/djing-admin/djing) ⭐ 7 | 🐛 0 | 🌐 Vue | 📅 2025-06-15
 * [django-admin-volt](https://github.com/app-generator/django-admin-volt) ⭐ 0 | 🐛 0 | 📅 2026-07-11
@@ -89,4 +89,4 @@ Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
