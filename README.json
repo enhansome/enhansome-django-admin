@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A jazzy skin for the Django Admin-Interface (official repository).",
+                "homepage": "http://www.grappelliproject.com",
                 "id": 580566,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-10T08:20:47Z",
+                "open_issues": 8,
                 "owner": "sehmaschine",
                 "repo": "django-grappelli",
-                "stars": 3943
+                "stars": 3943,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -28,12 +33,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern theme based on vue+element-ui for django admin.一款基于vue+element-ui的django admin现代化主题。全球20000+网站都在使用！喜欢可以点个star✨",
+                "homepage": "https://newpanjing.github.io/simpleui_docs/",
                 "id": 147495704,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-13T06:31:24Z",
+                "open_issues": 7,
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3823
+                "stars": 3823,
+                "topics": [
+                  "admin-template",
+                  "django",
+                  "django-admin",
+                  "django-admin-theme",
+                  "django-application",
+                  "django-project",
+                  "django-simpleui",
+                  "django-theme",
+                  "djangorestframework",
+                  "djangotemplate",
+                  "element-ui",
+                  "simpleui",
+                  "theme",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -44,12 +69,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern Django Admin",
+                "homepage": "https://unfoldadmin.com",
                 "id": 526497574,
                 "language": "Python",
-                "last_commit": "2026-08-28T11:47:12Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T14:44:33Z",
+                "open_issues": 31,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3643
+                "stars": 3645,
+                "topics": [
+                  "admin",
+                  "alpinejs",
+                  "darkmode",
+                  "dashboard",
+                  "django",
+                  "filters",
+                  "htmx",
+                  "python",
+                  "responsive",
+                  "tailwindcss",
+                  "theme",
+                  "ui",
+                  "wysiwyg"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -60,12 +104,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material Design for Django",
+                "homepage": "http://viewflow.io/",
                 "id": 29337344,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-02T04:00:38Z",
+                "open_issues": 21,
                 "owner": "viewflow",
                 "repo": "django-material",
-                "stars": 2541
+                "stars": 2541,
+                "topics": [
+                  "admin",
+                  "crud",
+                  "django",
+                  "form",
+                  "material-design",
+                  "materializecss"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -76,12 +132,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern theme for Django admin interface",
+                "homepage": "http://djangosuit.com/",
                 "id": 8250018,
                 "language": "SCSS",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-27T14:06:26Z",
+                "open_issues": 302,
                 "owner": "darklow",
                 "repo": "django-suit",
-                "stars": 2408
+                "stars": 2408,
+                "topics": [
+                  "django",
+                  "django-admin"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -92,12 +156,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":superhero: :zap: django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.",
+                "homepage": null,
                 "id": 44974847,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T18:01:18Z",
+                "open_issues": 21,
                 "owner": "fabiocaccamo",
                 "repo": "django-admin-interface",
-                "stars": 2040
+                "stars": 2041,
+                "topics": [
+                  "admin",
+                  "colors",
+                  "custom",
+                  "customizable",
+                  "django",
+                  "enviroment",
+                  "enviroments",
+                  "flat",
+                  "interface",
+                  "logo",
+                  "modal",
+                  "modals",
+                  "popup",
+                  "python",
+                  "responsive",
+                  "settings",
+                  "theme",
+                  "ui",
+                  "window",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -108,12 +198,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jazzy theme for Django",
+                "homepage": "https://django-jazzmin.readthedocs.io",
                 "id": 263143255,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-06-25T21:05:32Z",
+                "open_issues": 174,
                 "owner": "farridav",
                 "repo": "django-jazzmin",
-                "stars": 1877
+                "stars": 1878,
+                "topics": [
+                  "admin",
+                  "adminlte",
+                  "dashboard",
+                  "django",
+                  "jazzmin",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -124,12 +226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cool, modern and responsive django admin application based on bootstrap 5 that brings AI to the Django admin - https://baton.sqrt64.it/",
+                "homepage": null,
                 "id": 81565159,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-09T13:52:27Z",
+                "open_issues": 50,
                 "owner": "otto-torino",
                 "repo": "django-baton",
-                "stars": 995
+                "stars": 995,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -140,12 +247,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Responsive Theme for Django Admin With Sidebar Menu",
+                "homepage": null,
                 "id": 5063914,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2022-10-10T08:21:49Z",
+                "open_issues": 14,
                 "owner": "douglasmiranda",
                 "repo": "django-admin-bootstrap",
-                "stars": 877
+                "stars": 877,
+                "topics": [
+                  "admin",
+                  "bootstrap",
+                  "dashboard",
+                  "django",
+                  "django-admin",
+                  "responsive"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -156,12 +275,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Legacy Django jet rebooted to support Django  > 3 (4 and 5), and latest python releases",
+                "homepage": "https://django-jet-reboot.readthedocs.io/",
                 "id": 325018181,
                 "language": "CSS",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-02-01T15:34:19Z",
+                "open_issues": 38,
                 "owner": "assem-ch",
                 "repo": "django-jet-reboot",
-                "stars": 496
+                "stars": 496,
+                "topics": [
+                  "django",
+                  "django-admin",
+                  "django-admin-theme",
+                  "django-admin-tools",
+                  "django-jet"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -172,12 +302,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨ Django Semantic UI admin theme",
+                "homepage": "https://semantic-admin.com",
                 "id": 112842634,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-11T10:23:43Z",
+                "open_issues": 6,
                 "owner": "globophobe",
                 "repo": "django-semantic-admin",
-                "stars": 183
+                "stars": 183,
+                "topics": [
+                  "admin",
+                  "django",
+                  "semantic-ui"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -188,12 +327,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SmartBase Admin application for Django. A modern, modular, and developer-friendly admin interface for Django. Built to speed up development of admin panels but also SaaS end-user experiences — beautifully and efficiently.",
+                "homepage": null,
                 "id": 770247041,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T16:01:38Z",
+                "open_issues": 2,
                 "owner": "SmartBase-SK",
                 "repo": "django-smartbase-admin",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "django",
+                  "django-admin",
+                  "django-admin-interface",
+                  "django-admin-panel",
+                  "django-admin-theme",
+                  "django-admin-themes",
+                  "python",
+                  "python-3",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -204,12 +358,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Django Admin + Tailwind",
+                "homepage": "https://pypi.org/project/django-admin-tailwind/",
                 "id": 373488828,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-29T07:46:33Z",
+                "open_issues": 6,
                 "owner": "Aleksi44",
                 "repo": "django-admin-tailwind",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "django",
+                  "django-admin",
+                  "django-admin-theme",
+                  "tailwind",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -220,12 +385,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Django Admin Panel",
+                "homepage": "https://djing.gitbook.io/docs",
                 "id": 911152302,
                 "language": "Vue",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-15T05:56:41Z",
+                "open_issues": 0,
                 "owner": "djing-admin",
                 "repo": "djing",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "admin-panel",
+                  "django"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -236,12 +409,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Django Volt Dashboard | App-Generator.dev",
+                "homepage": "https://app-generator.dev/product/",
                 "id": 1297159183,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-11T05:37:51Z",
+                "open_issues": 0,
                 "owner": "app-generator",
                 "repo": "django-admin-volt",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             }
@@ -259,12 +437,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Django Simple Captcha is an extremely simple, yet highly customizable Django application to add captcha images to any Django form.",
+                "homepage": "http://django-simple-captcha.readthedocs.io/en/latest/",
                 "id": 3929597,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-30T13:53:47Z",
+                "open_issues": 39,
                 "owner": "mbi",
                 "repo": "django-simple-captcha",
-                "stars": 1421
+                "stars": 1421,
+                "topics": [
+                  "captcha",
+                  "django",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -275,12 +462,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TinyMCE integration for Django",
+                "homepage": "http://django-tinymce.readthedocs.org/",
                 "id": 907262,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-17T17:53:11Z",
+                "open_issues": 43,
                 "owner": "jazzband",
                 "repo": "django-tinymce",
-                "stars": 1354
+                "stars": 1354,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -291,12 +483,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":art: color field for django models with a nice color-picker in the admin.",
+                "homepage": null,
                 "id": 645063,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T18:01:19Z",
+                "open_issues": 10,
                 "owner": "fabiocaccamo",
                 "repo": "django-colorfield",
-                "stars": 661
+                "stars": 661,
+                "topics": [
+                  "admin",
+                  "color",
+                  "colorfield",
+                  "colorpicker",
+                  "django",
+                  "field",
+                  "interface",
+                  "jscolor",
+                  "model",
+                  "models",
+                  "picker",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -307,12 +517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An alternative widget that makes it easy to edit the new Django's field JSONField (PostgreSQL specific model fields)",
+                "homepage": null,
                 "id": 91264973,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-08T14:22:29Z",
+                "open_issues": 18,
                 "owner": "jmrivas86",
                 "repo": "django-json-widget",
-                "stars": 508
+                "stars": 508,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -323,12 +538,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A better, user-friendly JSON editing form field for Django admin. Also supports Postgres ArrayField.",
+                "homepage": "https://django-jsonform.rtfd.io",
                 "id": 400714962,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-01-29T22:30:21Z",
+                "open_issues": 48,
                 "owner": "bhch",
                 "repo": "django-jsonform",
-                "stars": 428
+                "stars": 428,
+                "topics": [
+                  "admin",
+                  "django",
+                  "json-form",
+                  "json-schema",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -339,12 +565,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A beautiful image uploader widget for django and django-admin",
+                "homepage": "https://software.oliveiraedu.com.br/django-image-uploader-widget/",
                 "id": 374257556,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-04-23T12:22:17Z",
+                "open_issues": 5,
                 "owner": "EduardoJM",
                 "repo": "django-image-uploader-widget",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "django",
+                  "django-admin",
+                  "image",
+                  "inline-editing",
+                  "python",
+                  "typescript",
+                  "uploader",
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             }
@@ -362,12 +602,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Django application and library for importing and exporting data with admin integration.",
+                "homepage": "https://django-import-export.readthedocs.org/en/latest/",
                 "id": 6704888,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-24T17:13:30Z",
+                "open_issues": 26,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
-                "stars": 3333
+                "stars": 3333,
+                "topics": [
+                  "csv",
+                  "django",
+                  "import-export",
+                  "json",
+                  "python",
+                  "xls"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -378,12 +630,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "collection of useful  django actions to use with  ModelAdmin or AdminSite.",
+                "homepage": "http://saxix.github.io/django-adminactions/",
                 "id": 5646851,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-19T15:15:51Z",
+                "open_issues": 14,
                 "owner": "saxix",
                 "repo": "django-adminactions",
-                "stars": 699
+                "stars": 699,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -394,12 +651,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AdminConfirmMixin is a mixin for ModelAdmin that adds confirmations to changes, additions and actions.",
+                "homepage": null,
                 "id": 311132778,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-01T08:37:12Z",
+                "open_issues": 23,
                 "owner": "TrangPham",
                 "repo": "django-admin-confirm",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "django-admin"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             }
@@ -417,12 +681,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced search language for Django",
+                "homepage": null,
                 "id": 85814425,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-27T03:42:34Z",
+                "open_issues": 36,
                 "owner": "ivelum",
                 "repo": "djangoql",
-                "stars": 1137
+                "stars": 1137,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -433,12 +702,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":honey_pot: A fake Django admin login screen page.",
+                "homepage": "http://django-admin-honeypot.readthedocs.io/",
                 "id": 2382101,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-10T14:22:38Z",
+                "open_issues": 19,
                 "owner": "dmpayton",
                 "repo": "django-admin-honeypot",
-                "stars": 1085
+                "stars": 1085,
+                "topics": [
+                  "django",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -449,12 +726,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extends the Django Admin to include a extensible dashboard and navigation menu",
+                "homepage": null,
                 "id": 37767159,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-10T12:40:54Z",
+                "open_issues": 22,
                 "owner": "django-admin-tools",
                 "repo": "django-admin-tools",
-                "stars": 894
+                "stars": 894,
+                "topics": [
+                  "admin",
+                  "admin-dashboard",
+                  "admin-menu",
+                  "admin-panel",
+                  "customizable",
+                  "django"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -465,12 +754,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way",
+                "homepage": "https://pypi.org/project/django-admin-easy/",
                 "id": 24751850,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-06T04:03:05Z",
+                "open_issues": 4,
                 "owner": "ebertti",
                 "repo": "django-admin-easy",
-                "stars": 502
+                "stars": 502,
+                "topics": [
+                  "django",
+                  "django-admin",
+                  "easy",
+                  "easy-to-use",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             },
@@ -481,12 +781,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visually distinguish environments in Django Admin",
+                "homepage": null,
                 "id": 94886742,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-22T18:23:13Z",
+                "open_issues": 4,
                 "owner": "dizballanze",
                 "repo": "django-admin-env-notice",
-                "stars": 344
+                "stars": 344,
+                "topics": [
+                  "django",
+                  "django-admin",
+                  "django-admin-panel",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             }
@@ -500,15 +810,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:24:52.771Z",
+    "last_updated": "2026-08-29T04:36:24.863Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
+      "homepage": null,
       "id": 74906893,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-02-24T16:50:33Z",
+      "open_issues": 1,
       "owner": "originalankur",
       "repo": "awesome-django-admin",
-      "stars": 1235
+      "stars": 1235,
+      "topics": [
+        "article",
+        "awesome",
+        "awesome-list",
+        "django",
+        "django-admin",
+        "theme",
+        "video"
+      ]
     },
     "original_repository_sha": "e799f6b13cbbf521a3acbe121710318fcb3550af",
     "enhanced_repository": "enhansome/enhansome-django-admin",
