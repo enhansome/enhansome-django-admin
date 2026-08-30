@@ -74,11 +74,11 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T07:31:14Z",
+                "last_commit": "2026-08-29T10:23:27Z",
                 "open_issues": 29,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3645,
+                "stars": 3646,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -141,7 +141,7 @@
                 "open_issues": 302,
                 "owner": "darklow",
                 "repo": "django-suit",
-                "stars": 2408,
+                "stars": 2407,
                 "topics": [
                   "django",
                   "django-admin"
@@ -471,7 +471,7 @@
                 "open_issues": 43,
                 "owner": "jazzband",
                 "repo": "django-tinymce",
-                "stars": 1354,
+                "stars": 1355,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -657,7 +657,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-01T08:37:12Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "TrangPham",
                 "repo": "django-admin-confirm",
                 "stars": 138,
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:08:34.426Z",
+    "last_updated": "2026-08-30T08:23:01.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
