@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "sehmaschine",
                 "repo": "django-grappelli",
-                "stars": 3943,
+                "stars": 3944,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -75,7 +75,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-29T10:23:27Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
                 "stars": 3646,
@@ -113,7 +113,7 @@
                 "open_issues": 21,
                 "owner": "viewflow",
                 "repo": "django-material",
-                "stars": 2541,
+                "stars": 2540,
                 "topics": [
                   "admin",
                   "crud",
@@ -204,10 +204,10 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-06-25T21:05:32Z",
-                "open_issues": 174,
+                "open_issues": 175,
                 "owner": "farridav",
                 "repo": "django-jazzmin",
-                "stars": 1878,
+                "stars": 1877,
                 "topics": [
                   "admin",
                   "adminlte",
@@ -332,8 +332,8 @@
                 "id": 770247041,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-26T16:01:38Z",
-                "open_issues": 2,
+                "last_commit": "2026-08-31T08:41:26Z",
+                "open_issues": 3,
                 "owner": "SmartBase-SK",
                 "repo": "django-smartbase-admin",
                 "stars": 128,
@@ -711,7 +711,7 @@
                 "open_issues": 19,
                 "owner": "dmpayton",
                 "repo": "django-admin-honeypot",
-                "stars": 1085,
+                "stars": 1084,
                 "topics": [
                   "django",
                   "python"
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T08:23:01.361Z",
+    "last_updated": "2026-08-31T08:43:00.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
@@ -822,7 +822,7 @@
       "open_issues": 1,
       "owner": "originalankur",
       "repo": "awesome-django-admin",
-      "stars": 1235,
+      "stars": 1236,
       "topics": [
         "article",
         "awesome",
