@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "sehmaschine",
                 "repo": "django-grappelli",
-                "stars": 3944,
+                "stars": 3945,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -78,7 +78,7 @@
                 "open_issues": 31,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3648,
+                "stars": 3649,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -207,7 +207,7 @@
                 "open_issues": 175,
                 "owner": "farridav",
                 "repo": "django-jazzmin",
-                "stars": 1879,
+                "stars": 1880,
                 "topics": [
                   "admin",
                   "adminlte",
@@ -332,7 +332,7 @@
                 "id": 770247041,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-02T10:16:43Z",
+                "last_commit": "2026-09-03T14:06:30Z",
                 "open_issues": 3,
                 "owner": "SmartBase-SK",
                 "repo": "django-smartbase-admin",
@@ -607,8 +607,8 @@
                 "id": 6704888,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-31T17:17:57Z",
-                "open_issues": 26,
+                "last_commit": "2026-09-03T14:24:22Z",
+                "open_issues": 25,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
                 "stars": 3334,
@@ -690,7 +690,7 @@
                 "open_issues": 36,
                 "owner": "ivelum",
                 "repo": "djangoql",
-                "stars": 1137,
+                "stars": 1138,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:14:26.940Z",
+    "last_updated": "2026-09-04T07:17:12.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
