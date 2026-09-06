@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "sehmaschine",
                 "repo": "django-grappelli",
-                "stars": 3947,
+                "stars": 3948,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -42,7 +42,7 @@
                 "open_issues": 7,
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3823,
+                "stars": 3824,
                 "topics": [
                   "admin-template",
                   "django",
@@ -74,11 +74,11 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-04T14:44:29Z",
-                "open_issues": 32,
+                "last_commit": "2026-09-05T13:37:10Z",
+                "open_issues": 31,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3649,
+                "stars": 3658,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -690,7 +690,7 @@
                 "open_issues": 36,
                 "owner": "ivelum",
                 "repo": "djangoql",
-                "stars": 1138,
+                "stars": 1139,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -735,7 +735,7 @@
                 "open_issues": 22,
                 "owner": "django-admin-tools",
                 "repo": "django-admin-tools",
-                "stars": 895,
+                "stars": 893,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:58:37.132Z",
+    "last_updated": "2026-09-06T07:10:48.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
