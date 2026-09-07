@@ -74,11 +74,11 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-05T13:37:10Z",
+                "last_commit": "2026-09-06T10:08:07Z",
                 "open_issues": 31,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3658,
+                "stars": 3661,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -207,7 +207,7 @@
                 "open_issues": 175,
                 "owner": "farridav",
                 "repo": "django-jazzmin",
-                "stars": 1880,
+                "stars": 1881,
                 "topics": [
                   "admin",
                   "adminlte",
@@ -235,7 +235,7 @@
                 "open_issues": 52,
                 "owner": "otto-torino",
                 "repo": "django-baton",
-                "stars": 995,
+                "stars": 996,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -608,7 +608,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-03T14:24:22Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
                 "stars": 3334,
@@ -735,7 +735,7 @@
                 "open_issues": 22,
                 "owner": "django-admin-tools",
                 "repo": "django-admin-tools",
-                "stars": 893,
+                "stars": 892,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:10:48.656Z",
+    "last_updated": "2026-09-07T07:23:27.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
