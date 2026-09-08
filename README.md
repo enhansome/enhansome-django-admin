@@ -7,13 +7,13 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 ### Alternative Themes
 
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli) ⭐ 3,948 | 🐛 4 | 🌐 HTML | 📅 2026-09-02
-* [django-simpleui](https://github.com/newpanjing/simpleui) ⭐ 3,824 | 🐛 7 | 🌐 Python | 📅 2026-01-13
-* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,661 | 🐛 31 | 🌐 Python | 📅 2026-09-06
+* [django-simpleui](https://github.com/newpanjing/simpleui) ⭐ 3,826 | 🐛 7 | 🌐 Python | 📅 2026-01-13
+* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,662 | 🐛 33 | 🌐 Python | 📅 2026-09-06
 * [Django-material](https://github.com/viewflow/django-material) ⭐ 2,540 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-02
 * [django-suit](https://github.com/darklow/django-suit) ⭐ 2,408 | 🐛 302 | 🌐 SCSS | 📅 2025-05-27
 * [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,042 | 🐛 17 | 🌐 Python | 📅 2026-09-02
 * [django-jazzmin](https://github.com/farridav/django-jazzmin) ⭐ 1,881 | 🐛 175 | 🌐 HTML | 📅 2026-06-25
-* [django-baton](https://github.com/otto-torino/django-baton) ⭐ 996 | 🐛 52 | 🌐 Python | 📅 2026-09-03
+* [django-baton](https://github.com/otto-torino/django-baton) ⭐ 1,001 | 🐛 53 | 🌐 Python | 📅 2026-09-03
 * [django-admin-bootstrap](https://github.com/django-admin-bootstrap/django-admin-bootstrap) ⚠️ Archived
 * [django-jet-reboot](https://github.com/assem-ch/django-jet-reboot) ⭐ 496 | 🐛 38 | 🌐 CSS | 📅 2026-02-01
 * [django-semantic-admin](https://github.com/globophobe/django-semantic-admin) ⭐ 183 | 🐛 7 | 🌐 Python | 📅 2026-09-02
@@ -33,7 +33,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 
 ### Actions
 
-* [django-import-export](https://github.com/django-import-export/django-import-export) ⭐ 3,334 | 🐛 26 | 🌐 Python | 📅 2026-09-03 - Django application and library for importing and exporting data with admin integration.
+* [django-import-export](https://github.com/django-import-export/django-import-export) ⭐ 3,334 | 🐛 25 | 🌐 Python | 📅 2026-09-07 - Django application and library for importing and exporting data with admin integration.
 * [django-adminactions](https://github.com/saxix/django-adminactions/) ⭐ 699 | 🐛 14 | 🌐 Python | 📅 2026-05-19 - Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite
 * [django-admin-confirm](https://github.com/trangpham/django-admin-confirm/) ⭐ 138 | 🐛 24 | 🌐 Python | 📅 2026-09-01 - Adds confirmations to changes, additions and actions
 
@@ -89,4 +89,4 @@ Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
