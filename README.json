@@ -42,7 +42,7 @@
                 "open_issues": 7,
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3827,
+                "stars": 3828,
                 "topics": [
                   "admin-template",
                   "django",
@@ -74,11 +74,11 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-09T16:21:33Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-10T08:30:31Z",
+                "open_issues": 29,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3670,
+                "stars": 3674,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -207,7 +207,7 @@
                 "open_issues": 175,
                 "owner": "farridav",
                 "repo": "django-jazzmin",
-                "stars": 1881,
+                "stars": 1882,
                 "topics": [
                   "admin",
                   "adminlte",
@@ -281,7 +281,7 @@
                 "language": "CSS",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-02-01T15:34:19Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "assem-ch",
                 "repo": "django-jet-reboot",
                 "stars": 496,
@@ -332,8 +332,8 @@
                 "id": 770247041,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-04T12:52:52Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-11T05:40:18Z",
+                "open_issues": 3,
                 "owner": "SmartBase-SK",
                 "repo": "django-smartbase-admin",
                 "stars": 128,
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:22:14.104Z",
+    "last_updated": "2026-09-11T07:20:30.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
