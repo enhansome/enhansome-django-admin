@@ -78,7 +78,7 @@
                 "open_issues": 33,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3674,
+                "stars": 3673,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -165,7 +165,7 @@
                 "open_issues": 17,
                 "owner": "fabiocaccamo",
                 "repo": "django-admin-interface",
-                "stars": 2043,
+                "stars": 2044,
                 "topics": [
                   "admin",
                   "colors",
@@ -207,7 +207,7 @@
                 "open_issues": 175,
                 "owner": "farridav",
                 "repo": "django-jazzmin",
-                "stars": 1883,
+                "stars": 1884,
                 "topics": [
                   "admin",
                   "adminlte",
@@ -336,7 +336,7 @@
                 "open_issues": 2,
                 "owner": "SmartBase-SK",
                 "repo": "django-smartbase-admin",
-                "stars": 128,
+                "stars": 129,
                 "topics": [
                   "django",
                   "django-admin",
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T07:13:33.735Z",
+    "last_updated": "2026-09-13T07:30:57.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
