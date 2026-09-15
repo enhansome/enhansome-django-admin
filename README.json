@@ -74,11 +74,11 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-13T08:23:03Z",
-                "open_issues": 35,
+                "last_commit": "2026-09-14T11:53:18Z",
+                "open_issues": 27,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3674,
+                "stars": 3676,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -471,7 +471,7 @@
                 "open_issues": 43,
                 "owner": "jazzband",
                 "repo": "django-tinymce",
-                "stars": 1356,
+                "stars": 1355,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -611,7 +611,7 @@
                 "open_issues": 26,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
-                "stars": 3335,
+                "stars": 3336,
                 "topics": [
                   "csv",
                   "django",
@@ -690,7 +690,7 @@
                 "open_issues": 36,
                 "owner": "ivelum",
                 "repo": "djangoql",
-                "stars": 1139,
+                "stars": 1140,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -735,7 +735,7 @@
                 "open_issues": 22,
                 "owner": "django-admin-tools",
                 "repo": "django-admin-tools",
-                "stars": 892,
+                "stars": 891,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T07:57:38.277Z",
+    "last_updated": "2026-09-15T07:51:34.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
@@ -822,7 +822,7 @@
       "open_issues": 1,
       "owner": "originalankur",
       "repo": "awesome-django-admin",
-      "stars": 1236,
+      "stars": 1235,
       "topics": [
         "article",
         "awesome",
