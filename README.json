@@ -42,7 +42,7 @@
                 "open_issues": 7,
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3828,
+                "stars": 3829,
                 "topics": [
                   "admin-template",
                   "django",
@@ -74,11 +74,11 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T11:53:18Z",
+                "last_commit": "2026-09-16T06:15:37Z",
                 "open_issues": 27,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3676,
+                "stars": 3678,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -235,7 +235,7 @@
                 "open_issues": 54,
                 "owner": "otto-torino",
                 "repo": "django-baton",
-                "stars": 1000,
+                "stars": 999,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -526,7 +526,7 @@
                 "open_issues": 18,
                 "owner": "jmrivas86",
                 "repo": "django-json-widget",
-                "stars": 508,
+                "stars": 507,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -639,7 +639,7 @@
                 "open_issues": 14,
                 "owner": "saxix",
                 "repo": "django-adminactions",
-                "stars": 699,
+                "stars": 698,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -711,7 +711,7 @@
                 "open_issues": 19,
                 "owner": "dmpayton",
                 "repo": "django-admin-honeypot",
-                "stars": 1083,
+                "stars": 1082,
                 "topics": [
                   "django",
                   "python"
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T07:51:34.879Z",
+    "last_updated": "2026-09-16T07:45:17.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
