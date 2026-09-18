@@ -6,10 +6,10 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 
 ### Alternative Themes
 
-* [django-grappelli](https://github.com/sehmaschine/django-grappelli) ⭐ 3,947 | 🐛 5 | 🌐 HTML | 📅 2026-09-09
-* [django-simpleui](https://github.com/newpanjing/simpleui) ⭐ 3,829 | 🐛 7 | 🌐 Python | 📅 2026-01-13
-* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,679 | 🐛 27 | 🌐 Python | 📅 2026-09-16
-* [Django-material](https://github.com/viewflow/django-material) ⭐ 2,538 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-02
+* [django-grappelli](https://github.com/sehmaschine/django-grappelli) ⭐ 3,947 | 🐛 3 | 🌐 HTML | 📅 2026-09-17
+* [django-simpleui](https://github.com/newpanjing/simpleui) ⭐ 3,828 | 🐛 7 | 🌐 Python | 📅 2026-01-13
+* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,680 | 🐛 28 | 🌐 Python | 📅 2026-09-17
+* [Django-material](https://github.com/viewflow/django-material) ⭐ 2,539 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-02
 * [django-suit](https://github.com/darklow/django-suit) ⭐ 2,407 | 🐛 302 | 🌐 SCSS | 📅 2025-05-27
 * [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,044 | 🐛 17 | 🌐 Python | 📅 2026-09-02
 * [django-jazzmin](https://github.com/farridav/django-jazzmin) ⭐ 1,884 | 🐛 175 | 🌐 HTML | 📅 2026-06-25
@@ -20,7 +20,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 * [django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) ⭐ 129 | 🐛 2 | 🌐 Python | 📅 2026-09-11
 * [django-admin-tailwind](https://github.com/Aleksi44/django-admin-tailwind) ⭐ 65 | 🐛 6 | 🌐 HTML | 📅 2025-04-29
 * [djing](https://github.com/djing-admin/djing) ⭐ 7 | 🐛 0 | 🌐 Vue | 📅 2025-06-15
-* [django-admin-volt](https://github.com/app-generator/django-admin-volt) ⭐ 0 | 🐛 0 | 📅 2026-07-11
+* [django-admin-volt](https://github.com/app-generator/django-admin-volt)
 
 ### Widgets / Fields
 
@@ -89,4 +89,4 @@ Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

@@ -17,8 +17,8 @@
                 "id": 580566,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T07:22:07Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-17T08:42:24Z",
+                "open_issues": 3,
                 "owner": "sehmaschine",
                 "repo": "django-grappelli",
                 "stars": 3947,
@@ -42,7 +42,7 @@
                 "open_issues": 7,
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3829,
+                "stars": 3828,
                 "topics": [
                   "admin-template",
                   "django",
@@ -74,11 +74,11 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-16T15:51:19Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-17T12:12:11Z",
+                "open_issues": 28,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3679,
+                "stars": 3680,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -113,7 +113,7 @@
                 "open_issues": 21,
                 "owner": "viewflow",
                 "repo": "django-material",
-                "stars": 2538,
+                "stars": 2539,
                 "topics": [
                   "admin",
                   "crud",
@@ -399,27 +399,6 @@
                   "admin-panel",
                   "django"
                 ]
-              },
-              "first_seen": "2026-08-28T14:24:52.771Z"
-            },
-            {
-              "node_type": "item",
-              "title": "django-admin-volt",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Django Volt Dashboard | App-Generator.dev",
-                "homepage": "https://app-generator.dev/product/",
-                "id": 1297159183,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-07-11T05:37:51Z",
-                "open_issues": 0,
-                "owner": "app-generator",
-                "repo": "django-admin-volt",
-                "stars": 0,
-                "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
             }
@@ -810,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:47:07.053Z",
+    "last_updated": "2026-09-18T07:27:51.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
