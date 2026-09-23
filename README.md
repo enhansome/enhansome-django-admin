@@ -7,12 +7,12 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 ### Alternative Themes
 
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli) ⭐ 3,946 | 🐛 3 | 🌐 HTML | 📅 2026-09-17
-* [django-simpleui](https://github.com/newpanjing/simpleui) ⭐ 3,829 | 🐛 7 | 🌐 Python | 📅 2026-01-13
-* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,680 | 🐛 23 | 🌐 Python | 📅 2026-09-20
+* [django-simpleui](https://github.com/newpanjing/simpleui) ⭐ 3,830 | 🐛 7 | 🌐 Python | 📅 2026-01-13
+* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,681 | 🐛 24 | 🌐 Python | 📅 2026-09-22
 * [Django-material](https://github.com/viewflow/django-material) ⭐ 2,539 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-02
 * [django-suit](https://github.com/darklow/django-suit) ⭐ 2,406 | 🐛 302 | 🌐 SCSS | 📅 2025-05-27
-* [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,045 | 🐛 17 | 🌐 Python | 📅 2026-09-02
-* [django-jazzmin](https://github.com/farridav/django-jazzmin) ⭐ 1,884 | 🐛 175 | 🌐 HTML | 📅 2026-06-25
+* [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,046 | 🐛 17 | 🌐 Python | 📅 2026-09-02
+* [django-jazzmin](https://github.com/farridav/django-jazzmin) ⭐ 1,883 | 🐛 175 | 🌐 HTML | 📅 2026-06-25
 * [django-baton](https://github.com/otto-torino/django-baton) ⭐ 998 | 🐛 54 | 🌐 Python | 📅 2026-09-09
 * [django-admin-bootstrap](https://github.com/django-admin-bootstrap/django-admin-bootstrap) ⚠️ Archived
 * [django-jet-reboot](https://github.com/assem-ch/django-jet-reboot) ⭐ 497 | 🐛 39 | 🌐 CSS | 📅 2026-02-01
@@ -89,4 +89,4 @@ Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
