@@ -74,11 +74,11 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T08:36:34Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-24T07:27:03Z",
+                "open_issues": 19,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3681,
+                "stars": 3682,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -332,8 +332,8 @@
                 "id": 770247041,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T06:48:58Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-23T14:15:07Z",
+                "open_issues": 3,
                 "owner": "SmartBase-SK",
                 "repo": "django-smartbase-admin",
                 "stars": 129,
@@ -587,7 +587,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-18T13:55:10Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
                 "stars": 3335,
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T07:49:42.199Z",
+    "last_updated": "2026-09-24T07:39:42.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
