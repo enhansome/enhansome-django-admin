@@ -75,10 +75,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-24T07:27:03Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3682,
+                "stars": 3683,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -207,7 +207,7 @@
                 "open_issues": 175,
                 "owner": "farridav",
                 "repo": "django-jazzmin",
-                "stars": 1883,
+                "stars": 1882,
                 "topics": [
                   "admin",
                   "adminlte",
@@ -235,7 +235,7 @@
                 "open_issues": 54,
                 "owner": "otto-torino",
                 "repo": "django-baton",
-                "stars": 998,
+                "stars": 997,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -284,7 +284,7 @@
                 "open_issues": 39,
                 "owner": "assem-ch",
                 "repo": "django-jet-reboot",
-                "stars": 497,
+                "stars": 496,
                 "topics": [
                   "django",
                   "django-admin",
@@ -332,8 +332,8 @@
                 "id": 770247041,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-23T14:15:07Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-24T14:53:15Z",
+                "open_issues": 4,
                 "owner": "SmartBase-SK",
                 "repo": "django-smartbase-admin",
                 "stars": 129,
@@ -471,7 +471,7 @@
                 "open_issues": 6,
                 "owner": "fabiocaccamo",
                 "repo": "django-colorfield",
-                "stars": 659,
+                "stars": 658,
                 "topics": [
                   "admin",
                   "color",
@@ -586,8 +586,8 @@
                 "id": 6704888,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-18T13:55:10Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-24T15:36:41Z",
+                "open_issues": 25,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
                 "stars": 3335,
@@ -669,7 +669,7 @@
                 "open_issues": 36,
                 "owner": "ivelum",
                 "repo": "djangoql",
-                "stars": 1139,
+                "stars": 1140,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -742,7 +742,7 @@
                 "open_issues": 4,
                 "owner": "ebertti",
                 "repo": "django-admin-easy",
-                "stars": 502,
+                "stars": 501,
                 "topics": [
                   "django",
                   "django-admin",
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T07:39:42.432Z",
+    "last_updated": "2026-09-25T07:57:00.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
