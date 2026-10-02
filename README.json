@@ -78,7 +78,7 @@
                 "open_issues": 24,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3703,
+                "stars": 3708,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -161,11 +161,11 @@
                 "id": 44974847,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-02T10:31:57Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-01T13:54:12Z",
+                "open_issues": 19,
                 "owner": "fabiocaccamo",
                 "repo": "django-admin-interface",
-                "stars": 2049,
+                "stars": 2050,
                 "topics": [
                   "admin",
                   "colors",
@@ -207,7 +207,7 @@
                 "open_issues": 175,
                 "owner": "farridav",
                 "repo": "django-jazzmin",
-                "stars": 1882,
+                "stars": 1883,
                 "topics": [
                   "admin",
                   "adminlte",
@@ -425,7 +425,7 @@
                 "open_issues": 39,
                 "owner": "mbi",
                 "repo": "django-simple-captcha",
-                "stars": 1421,
+                "stars": 1422,
                 "topics": [
                   "captcha",
                   "django",
@@ -690,7 +690,7 @@
                 "open_issues": 19,
                 "owner": "dmpayton",
                 "repo": "django-admin-honeypot",
-                "stars": 1082,
+                "stars": 1083,
                 "topics": [
                   "django",
                   "python"
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T09:03:29.006Z",
+    "last_updated": "2026-10-02T08:38:22.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
