@@ -6,12 +6,12 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 
 ### Alternative Themes
 
-* [django-grappelli](https://github.com/sehmaschine/django-grappelli) ⭐ 3,947 | 🐛 3 | 🌐 HTML | 📅 2026-09-17
+* [django-grappelli](https://github.com/sehmaschine/django-grappelli) ⭐ 3,946 | 🐛 3 | 🌐 HTML | 📅 2026-09-17
 * [django-simpleui](https://github.com/newpanjing/simpleui) ⭐ 3,832 | 🐛 7 | 🌐 Python | 📅 2026-01-13
 * [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,712 | 🐛 27 | 🌐 Python | 📅 2026-10-02
 * [Django-material](https://github.com/viewflow/django-material) ⭐ 2,539 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-02
 * [django-suit](https://github.com/darklow/django-suit) ⭐ 2,406 | 🐛 302 | 🌐 SCSS | 📅 2025-05-27
-* [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,049 | 🐛 19 | 🌐 Python | 📅 2026-10-01
+* [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,048 | 🐛 19 | 🌐 Python | 📅 2026-10-01
 * [django-jazzmin](https://github.com/farridav/django-jazzmin) ⭐ 1,883 | 🐛 175 | 🌐 HTML | 📅 2026-06-25
 * [django-baton](https://github.com/otto-torino/django-baton) ⭐ 997 | 🐛 54 | 🌐 Python | 📅 2026-10-01
 * [django-admin-bootstrap](https://github.com/django-admin-bootstrap/django-admin-bootstrap) ⚠️ Archived
@@ -25,7 +25,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 ### Widgets / Fields
 
 * [django-simple-captcha](https://github.com/mbi/django-simple-captcha) ⭐ 1,419 | 🐛 39 | 🌐 Python | 📅 2026-07-30 - Add captcha images to any Django form
-* [django-tinymce](https://github.com/jazzband/django-tinymce) ⭐ 1,356 | 🐛 43 | 🌐 JavaScript | 📅 2026-09-28 - TinyMCE text editor integration for Django
+* [django-tinymce](https://github.com/jazzband/django-tinymce) ⭐ 1,355 | 🐛 43 | 🌐 JavaScript | 📅 2026-09-28 - TinyMCE text editor integration for Django
 * [django-colorfield](https://github.com/fabiocaccamo/django-colorfield) ⭐ 659 | 🐛 8 | 🌐 Python | 📅 2026-10-01 - Color field for django models with a nice color-picker in the admin
 * [django-json-widget](https://github.com/jmrivas86/django-json-widget) ⭐ 507 | 🐛 18 | 🌐 Python | 📅 2026-05-08 - An alternative widget that makes it easy to edit the Django's JSONField
 * \[<https://github.com/bhch/django-jsonform> ⭐ 428 | 🐛 48 | 🌐 Python | 📅 2025-01-29] - A user-friendly JSON editing form for django admin.
@@ -33,7 +33,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 
 ### Actions
 
-* [django-import-export](https://github.com/django-import-export/django-import-export) ⭐ 3,337 | 🐛 28 | 🌐 Python | 📅 2026-09-28 - Django application and library for importing and exporting data with admin integration.
+* [django-import-export](https://github.com/django-import-export/django-import-export) ⭐ 3,336 | 🐛 28 | 🌐 Python | 📅 2026-09-28 - Django application and library for importing and exporting data with admin integration.
 * [django-adminactions](https://github.com/saxix/django-adminactions/) ⭐ 698 | 🐛 14 | 🌐 Python | 📅 2026-05-19 - Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite
 * [django-admin-confirm](https://github.com/trangpham/django-admin-confirm/) ⭐ 138 | 🐛 10 | 🌐 Python | 📅 2026-10-01 - Adds confirmations to changes, additions and actions
 

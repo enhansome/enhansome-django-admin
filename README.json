@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "sehmaschine",
                 "repo": "django-grappelli",
-                "stars": 3947,
+                "stars": 3946,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -165,7 +165,7 @@
                 "open_issues": 19,
                 "owner": "fabiocaccamo",
                 "repo": "django-admin-interface",
-                "stars": 2049,
+                "stars": 2048,
                 "topics": [
                   "admin",
                   "colors",
@@ -450,7 +450,7 @@
                 "open_issues": 43,
                 "owner": "jazzband",
                 "repo": "django-tinymce",
-                "stars": 1356,
+                "stars": 1355,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -590,7 +590,7 @@
                 "open_issues": 28,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
-                "stars": 3337,
+                "stars": 3336,
                 "topics": [
                   "csv",
                   "django",
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:40:36.673Z",
+    "last_updated": "2026-10-03T08:15:20.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
