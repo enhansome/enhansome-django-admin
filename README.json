@@ -74,11 +74,11 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T14:44:34Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-04T17:33:34Z",
+                "open_issues": 23,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3712,
+                "stars": 3714,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -165,7 +165,7 @@
                 "open_issues": 19,
                 "owner": "fabiocaccamo",
                 "repo": "django-admin-interface",
-                "stars": 2047,
+                "stars": 2048,
                 "topics": [
                   "admin",
                   "colors",
@@ -336,7 +336,7 @@
                 "open_issues": 2,
                 "owner": "SmartBase-SK",
                 "repo": "django-smartbase-admin",
-                "stars": 130,
+                "stars": 131,
                 "topics": [
                   "django",
                   "django-admin",
@@ -669,7 +669,7 @@
                 "open_issues": 36,
                 "owner": "ivelum",
                 "repo": "djangoql",
-                "stars": 1139,
+                "stars": 1140,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -690,7 +690,7 @@
                 "open_issues": 19,
                 "owner": "dmpayton",
                 "repo": "django-admin-honeypot",
-                "stars": 1083,
+                "stars": 1082,
                 "topics": [
                   "django",
                   "python"
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T08:31:16.691Z",
+    "last_updated": "2026-10-05T09:13:09.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
