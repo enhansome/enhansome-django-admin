@@ -8,7 +8,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli) ⭐ 3,946 | 🐛 3 | 🌐 HTML | 📅 2026-09-17
 * [django-simpleui](https://github.com/newpanjing/simpleui) ⭐ 3,833 | 🐛 7 | 🌐 Python | 📅 2026-01-13
-* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,716 | 🐛 14 | 🌐 Python | 📅 2026-10-06
+* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,716 | 🐛 9 | 🌐 Python | 📅 2026-10-06
 * [Django-material](https://github.com/viewflow/django-material) ⭐ 2,539 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-02
 * [django-suit](https://github.com/darklow/django-suit) ⭐ 2,405 | 🐛 302 | 🌐 SCSS | 📅 2025-05-27
 * [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,048 | 🐛 19 | 🌐 Python | 📅 2026-10-01
