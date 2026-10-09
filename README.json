@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "sehmaschine",
                 "repo": "django-grappelli",
-                "stars": 3946,
+                "stars": 3947,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -74,8 +74,8 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-07T13:03:56Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-08T13:31:23Z",
+                "open_issues": 3,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
                 "stars": 3717,
@@ -141,7 +141,7 @@
                 "open_issues": 302,
                 "owner": "darklow",
                 "repo": "django-suit",
-                "stars": 2406,
+                "stars": 2407,
                 "topics": [
                   "django",
                   "django-admin"
@@ -332,7 +332,7 @@
                 "id": 770247041,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-25T15:28:24Z",
+                "last_commit": "2026-10-09T08:20:42Z",
                 "open_issues": 2,
                 "owner": "SmartBase-SK",
                 "repo": "django-smartbase-admin",
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:07:39.505Z",
+    "last_updated": "2026-10-09T09:13:53.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
