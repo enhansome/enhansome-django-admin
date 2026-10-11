@@ -8,9 +8,9 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli) ⭐ 3,947 | 🐛 4 | 🌐 HTML | 📅 2026-09-17
 * [django-simpleui](https://github.com/newpanjing/simpleui) ⭐ 3,833 | 🐛 7 | 🌐 Python | 📅 2026-01-13
-* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,718 | 🐛 4 | 🌐 Python | 📅 2026-10-09
+* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,719 | 🐛 6 | 🌐 Python | 📅 2026-10-09
 * [Django-material](https://github.com/viewflow/django-material) ⭐ 2,532 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-02
-* [django-suit](https://github.com/darklow/django-suit) ⭐ 2,407 | 🐛 302 | 🌐 SCSS | 📅 2025-05-27
+* [django-suit](https://github.com/darklow/django-suit) ⭐ 2,406 | 🐛 302 | 🌐 SCSS | 📅 2025-05-27
 * [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,049 | 🐛 19 | 🌐 Python | 📅 2026-10-01
 * [django-jazzmin](https://github.com/farridav/django-jazzmin) ⭐ 1,881 | 🐛 175 | 🌐 HTML | 📅 2026-06-25
 * [django-baton](https://github.com/otto-torino/django-baton) ⭐ 997 | 🐛 54 | 🌐 Python | 📅 2026-10-01
@@ -43,7 +43,7 @@ Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) 
 
 * [djangoql](https://github.com/ivelum/djangoql) ⭐ 1,141 | 🐛 36 | 🌐 Python | 📅 2026-01-27 - Advanced search language for Django
 * [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot/) ⭐ 1,082 | 🐛 19 | 🌐 Python | 📅 2024-04-10 - A fake Django admin login screen to notify admins of attempted unauthorized access.
-* [django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) ⭐ 891 | 🐛 24 | 🌐 Python | 📅 2023-08-10 - Collection of extensions/tools for the default django administration interface.
+* [django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) ⭐ 890 | 🐛 24 | 🌐 Python | 📅 2023-08-10 - Collection of extensions/tools for the default django administration interface.
 * [django-admin-easy](https://github.com/ebertti/django-admin-easy) ⭐ 501 | 🐛 4 | 🌐 Python | 📅 2025-03-06 - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way Edit
 * [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) ⭐ 344 | 🐛 4 | 🌐 Python | 📅 2026-01-22 - Visually distinguish environments in Django Admin
 * [djangocontrolroom](https://djangocontrolroom.com) - Django Control Room is a suite of self-hosted admin panels for Django. It gives you real-time visibility into Redis, Celery, caching, URLs, signals, and errors, all inside your existing Django admin.
@@ -89,4 +89,4 @@ Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
