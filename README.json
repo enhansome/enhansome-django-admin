@@ -74,8 +74,8 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-09T14:44:20Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-12T08:44:19Z",
+                "open_issues": 3,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
                 "stars": 3719,
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T09:01:33.492Z",
+    "last_updated": "2026-10-12T09:22:56.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
