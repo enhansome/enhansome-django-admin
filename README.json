@@ -78,7 +78,7 @@
                 "open_issues": 3,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3720,
+                "stars": 3722,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -161,11 +161,11 @@
                 "id": 44974847,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T13:54:12Z",
+                "last_commit": "2026-10-13T15:35:21Z",
                 "open_issues": 19,
                 "owner": "fabiocaccamo",
                 "repo": "django-admin-interface",
-                "stars": 2049,
+                "stars": 2048,
                 "topics": [
                   "admin",
                   "colors",
@@ -207,7 +207,7 @@
                 "open_issues": 175,
                 "owner": "farridav",
                 "repo": "django-jazzmin",
-                "stars": 1881,
+                "stars": 1882,
                 "topics": [
                   "admin",
                   "adminlte",
@@ -231,7 +231,7 @@
                 "id": 81565159,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T07:28:33Z",
+                "last_commit": "2026-10-13T10:14:05Z",
                 "open_issues": 54,
                 "owner": "otto-torino",
                 "repo": "django-baton",
@@ -467,7 +467,7 @@
                 "id": 645063,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T06:53:47Z",
+                "last_commit": "2026-10-13T15:35:10Z",
                 "open_issues": 8,
                 "owner": "fabiocaccamo",
                 "repo": "django-colorfield",
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T09:32:32.193Z",
+    "last_updated": "2026-10-14T07:45:59.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
@@ -801,7 +801,7 @@
       "open_issues": 1,
       "owner": "originalankur",
       "repo": "awesome-django-admin",
-      "stars": 1236,
+      "stars": 1235,
       "topics": [
         "article",
         "awesome",
