@@ -42,7 +42,7 @@
                 "open_issues": 7,
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3830,
+                "stars": 3831,
                 "topics": [
                   "admin-template",
                   "django",
@@ -74,8 +74,8 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-17T04:37:32Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-17T09:25:42Z",
+                "open_issues": 4,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
                 "stars": 3723,
@@ -450,7 +450,7 @@
                 "open_issues": 43,
                 "owner": "jazzband",
                 "repo": "django-tinymce",
-                "stars": 1355,
+                "stars": 1353,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -590,7 +590,7 @@
                 "open_issues": 14,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
-                "stars": 3335,
+                "stars": 3336,
                 "topics": [
                   "csv",
                   "django",
@@ -714,7 +714,7 @@
                 "open_issues": 24,
                 "owner": "django-admin-tools",
                 "repo": "django-admin-tools",
-                "stars": 890,
+                "stars": 889,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:02:01.558Z",
+    "last_updated": "2026-10-18T07:17:12.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
@@ -801,7 +801,7 @@
       "open_issues": 1,
       "owner": "originalankur",
       "repo": "awesome-django-admin",
-      "stars": 1234,
+      "stars": 1233,
       "topics": [
         "article",
         "awesome",
