@@ -42,7 +42,7 @@
                 "open_issues": 7,
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3831,
+                "stars": 3830,
                 "topics": [
                   "admin-template",
                   "django",
@@ -450,7 +450,7 @@
                 "open_issues": 43,
                 "owner": "jazzband",
                 "repo": "django-tinymce",
-                "stars": 1353,
+                "stars": 1352,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -471,7 +471,7 @@
                 "open_issues": 8,
                 "owner": "fabiocaccamo",
                 "repo": "django-colorfield",
-                "stars": 659,
+                "stars": 660,
                 "topics": [
                   "admin",
                   "color",
@@ -587,7 +587,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-15T20:01:20Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
                 "stars": 3336,
@@ -714,7 +714,7 @@
                 "open_issues": 24,
                 "owner": "django-admin-tools",
                 "repo": "django-admin-tools",
-                "stars": 889,
+                "stars": 888,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:17:12.804Z",
+    "last_updated": "2026-10-19T07:53:42.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
