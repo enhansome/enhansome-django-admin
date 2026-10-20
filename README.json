@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "sehmaschine",
                 "repo": "django-grappelli",
-                "stars": 3947,
+                "stars": 3946,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -74,11 +74,11 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-17T09:25:42Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-19T15:08:26Z",
+                "open_issues": 5,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3723,
+                "stars": 3724,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -446,7 +446,7 @@
                 "id": 907262,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T17:57:27Z",
+                "last_commit": "2026-10-19T17:55:58Z",
                 "open_issues": 43,
                 "owner": "jazzband",
                 "repo": "django-tinymce",
@@ -586,11 +586,11 @@
                 "id": 6704888,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-15T20:01:20Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-19T18:47:08Z",
+                "open_issues": 10,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
-                "stars": 3336,
+                "stars": 3335,
                 "topics": [
                   "csv",
                   "django",
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T07:53:42.068Z",
+    "last_updated": "2026-10-20T07:42:46.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
@@ -801,7 +801,7 @@
       "open_issues": 1,
       "owner": "originalankur",
       "repo": "awesome-django-admin",
-      "stars": 1233,
+      "stars": 1234,
       "topics": [
         "article",
         "awesome",
