@@ -7,17 +7,17 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 ### Alternative Themes
 
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli) ⭐ 3,946 | 🐛 3 | 🌐 HTML | 📅 2026-10-16
-* [django-simpleui](https://github.com/newpanjing/simpleui) ⭐ 3,829 | 🐛 7 | 🌐 Python | 📅 2026-01-13
-* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,725 | 🐛 6 | 🌐 Python | 📅 2026-10-19
-* [Django-material](https://github.com/viewflow/django-material) ⭐ 2,532 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-02
-* [django-suit](https://github.com/darklow/django-suit) ⭐ 2,406 | 🐛 302 | 🌐 SCSS | 📅 2025-05-27
+* [django-simpleui](https://github.com/newpanjing/simpleui) ⭐ 3,828 | 🐛 7 | 🌐 Python | 📅 2026-01-13
+* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,726 | 🐛 6 | 🌐 Python | 📅 2026-10-21
+* [Django-material](https://github.com/viewflow/django-material) ⭐ 2,531 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-02
+* [django-suit](https://github.com/darklow/django-suit) ⭐ 2,405 | 🐛 302 | 🌐 SCSS | 📅 2025-05-27
 * [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,048 | 🐛 19 | 🌐 Python | 📅 2026-10-20
-* [django-jazzmin](https://github.com/farridav/django-jazzmin) ⭐ 1,882 | 🐛 175 | 🌐 HTML | 📅 2026-06-25
+* [django-jazzmin](https://github.com/farridav/django-jazzmin) ⭐ 1,882 | 🐛 177 | 🌐 HTML | 📅 2026-06-25
 * [django-baton](https://github.com/otto-torino/django-baton) ⭐ 997 | 🐛 54 | 🌐 Python | 📅 2026-10-14
 * [django-admin-bootstrap](https://github.com/django-admin-bootstrap/django-admin-bootstrap) ⚠️ Archived
 * [django-jet-reboot](https://github.com/assem-ch/django-jet-reboot) ⭐ 496 | 🐛 39 | 🌐 CSS | 📅 2026-02-01
 * [django-semantic-admin](https://github.com/globophobe/django-semantic-admin) ⭐ 182 | 🐛 8 | 🌐 Python | 📅 2026-10-08
-* [django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) ⭐ 131 | 🐛 1 | 🌐 Python | 📅 2026-10-20
+* [django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) ⭐ 131 | 🐛 0 | 🌐 Python | 📅 2026-10-21
 * [django-admin-tailwind](https://github.com/Aleksi44/django-admin-tailwind) ⭐ 64 | 🐛 6 | 🌐 HTML | 📅 2025-04-29
 * [djing](https://github.com/djing-admin/djing) ⭐ 7 | 🐛 0 | 🌐 Vue | 📅 2025-06-15
 * [django-admin-volt](https://github.com/app-generator/django-admin-volt)
@@ -33,7 +33,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 
 ### Actions
 
-* [django-import-export](https://github.com/django-import-export/django-import-export) ⭐ 3,335 | 🐛 10 | 🌐 Python | 📅 2026-10-19 - Django application and library for importing and exporting data with admin integration.
+* [django-import-export](https://github.com/django-import-export/django-import-export) ⭐ 3,335 | 🐛 11 | 🌐 Python | 📅 2026-10-19 - Django application and library for importing and exporting data with admin integration.
 * [django-adminactions](https://github.com/saxix/django-adminactions/) ⭐ 698 | 🐛 14 | 🌐 Python | 📅 2026-05-19 - Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite
 * [django-admin-confirm](https://github.com/trangpham/django-admin-confirm/) ⭐ 138 | 🐛 10 | 🌐 Python | 📅 2026-10-01 - Adds confirmations to changes, additions and actions
 
@@ -89,4 +89,4 @@ Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

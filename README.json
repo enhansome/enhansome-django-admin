@@ -42,7 +42,7 @@
                 "open_issues": 7,
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3829,
+                "stars": 3828,
                 "topics": [
                   "admin-template",
                   "django",
@@ -74,11 +74,11 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T15:08:26Z",
+                "last_commit": "2026-10-21T13:29:52Z",
                 "open_issues": 6,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3725,
+                "stars": 3726,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -113,7 +113,7 @@
                 "open_issues": 21,
                 "owner": "viewflow",
                 "repo": "django-material",
-                "stars": 2532,
+                "stars": 2531,
                 "topics": [
                   "admin",
                   "crud",
@@ -141,7 +141,7 @@
                 "open_issues": 302,
                 "owner": "darklow",
                 "repo": "django-suit",
-                "stars": 2406,
+                "stars": 2405,
                 "topics": [
                   "django",
                   "django-admin"
@@ -204,7 +204,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-06-25T21:05:32Z",
-                "open_issues": 175,
+                "open_issues": 177,
                 "owner": "farridav",
                 "repo": "django-jazzmin",
                 "stars": 1882,
@@ -332,8 +332,8 @@
                 "id": 770247041,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-20T10:30:15Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-21T13:24:14Z",
+                "open_issues": 0,
                 "owner": "SmartBase-SK",
                 "repo": "django-smartbase-admin",
                 "stars": 131,
@@ -587,7 +587,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-19T18:47:08Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
                 "stars": 3335,
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T07:47:29.430Z",
+    "last_updated": "2026-10-22T07:42:56.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
