@@ -74,7 +74,7 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-24T07:17:13Z",
+                "last_commit": "2026-10-24T09:43:58Z",
                 "open_issues": 7,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
@@ -307,7 +307,7 @@
                 "id": 112842634,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-24T04:23:36Z",
+                "last_commit": "2026-10-24T23:42:04Z",
                 "open_issues": 4,
                 "owner": "globophobe",
                 "repo": "django-semantic-admin",
@@ -587,7 +587,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-19T18:47:08Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
                 "stars": 3335,
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T07:24:15.466Z",
+    "last_updated": "2026-10-25T07:39:50.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
