@@ -7,13 +7,13 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 ### Alternative Themes
 
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli) ⭐ 3,946 | 🐛 3 | 🌐 HTML | 📅 2026-10-28
-* [django-simpleui](https://github.com/newpanjing/simpleui) ⭐ 3,828 | 🐛 7 | 🌐 Python | 📅 2026-01-13
-* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,736 | 🐛 7 | 🌐 Python | 📅 2026-10-24
-* [Django-material](https://github.com/viewflow/django-material) ⭐ 2,532 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-02
+* [django-simpleui](https://github.com/newpanjing/simpleui) ⭐ 3,830 | 🐛 7 | 🌐 Python | 📅 2026-01-13
+* [django-unfold](https://github.com/unfoldadmin/django-unfold) ⭐ 3,738 | 🐛 7 | 🌐 Python | 📅 2026-10-24
+* [Django-material](https://github.com/viewflow/django-material) ⭐ 2,531 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-02
 * [django-suit](https://github.com/darklow/django-suit) ⭐ 2,403 | 🐛 302 | 🌐 SCSS | 📅 2025-05-27
-* [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,049 | 🐛 19 | 🌐 Python | 📅 2026-10-20
+* [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,050 | 🐛 19 | 🌐 Python | 📅 2026-10-20
 * [django-jazzmin](https://github.com/farridav/django-jazzmin) ⭐ 1,881 | 🐛 177 | 🌐 HTML | 📅 2026-06-25
-* [django-baton](https://github.com/otto-torino/django-baton) ⭐ 995 | 🐛 0 | 🌐 Python | 📅 2026-10-28
+* [django-baton](https://github.com/otto-torino/django-baton) ⭐ 996 | 🐛 0 | 🌐 Python | 📅 2026-10-29
 * [django-admin-bootstrap](https://github.com/django-admin-bootstrap/django-admin-bootstrap) ⚠️ Archived
 * [django-jet-reboot](https://github.com/assem-ch/django-jet-reboot) ⭐ 496 | 🐛 40 | 🌐 CSS | 📅 2026-02-01
 * [django-semantic-admin](https://github.com/globophobe/django-semantic-admin) ⭐ 182 | 🐛 5 | 🌐 Python | 📅 2026-10-29
@@ -26,14 +26,14 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 
 * [django-simple-captcha](https://github.com/mbi/django-simple-captcha) ⭐ 1,419 | 🐛 39 | 🌐 Python | 📅 2026-07-30 - Add captcha images to any Django form
 * [django-tinymce](https://github.com/jazzband/django-tinymce) ⭐ 1,355 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-19 - TinyMCE text editor integration for Django
-* [django-colorfield](https://github.com/fabiocaccamo/django-colorfield) ⭐ 658 | 🐛 9 | 🌐 Python | 📅 2026-10-20 - Color field for django models with a nice color-picker in the admin
+* [django-colorfield](https://github.com/fabiocaccamo/django-colorfield) ⭐ 658 | 🐛 10 | 🌐 Python | 📅 2026-10-20 - Color field for django models with a nice color-picker in the admin
 * [django-json-widget](https://github.com/jmrivas86/django-json-widget) ⭐ 507 | 🐛 18 | 🌐 Python | 📅 2026-05-08 - An alternative widget that makes it easy to edit the Django's JSONField
 * \[<https://github.com/bhch/django-jsonform> ⭐ 427 | 🐛 48 | 🌐 Python | 📅 2025-01-29] - A user-friendly JSON editing form for django admin.
 * [django-image-uploader-widget](https://github.com/inventare/django-image-uploader-widget) ⭐ 64 | 🐛 5 | 🌐 HTML | 📅 2026-04-23 - An beautiful image uploader widget (and inline) for django-admin
 
 ### Actions
 
-* [django-import-export](https://github.com/django-import-export/django-import-export) ⭐ 3,332 | 🐛 12 | 🌐 Python | 📅 2026-10-28 - Django application and library for importing and exporting data with admin integration.
+* [django-import-export](https://github.com/django-import-export/django-import-export) ⭐ 3,332 | 🐛 12 | 🌐 Python | 📅 2026-10-29 - Django application and library for importing and exporting data with admin integration.
 * [django-adminactions](https://github.com/saxix/django-adminactions/) ⭐ 696 | 🐛 14 | 🌐 Python | 📅 2026-05-19 - Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite
 * [django-admin-confirm](https://github.com/trangpham/django-admin-confirm/) ⭐ 138 | 🐛 10 | 🌐 Python | 📅 2026-10-01 - Adds confirmations to changes, additions and actions
 
@@ -89,4 +89,4 @@ Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
