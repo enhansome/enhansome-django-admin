@@ -162,7 +162,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-01T13:54:03Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "fabiocaccamo",
                 "repo": "django-admin-interface",
                 "stars": 2050,
@@ -446,7 +446,7 @@
                 "id": 907262,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T17:55:58Z",
+                "last_commit": "2026-11-02T18:06:34Z",
                 "open_issues": 43,
                 "owner": "jazzband",
                 "repo": "django-tinymce",
@@ -586,11 +586,11 @@
                 "id": 6704888,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-29T11:04:35Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-02T17:28:52Z",
+                "open_issues": 13,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
-                "stars": 3333,
+                "stars": 3334,
                 "topics": [
                   "csv",
                   "django",
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T09:38:01.160Z",
+    "last_updated": "2026-11-03T09:41:32.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
