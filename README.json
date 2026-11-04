@@ -42,7 +42,7 @@
                 "open_issues": 7,
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3832,
+                "stars": 3833,
                 "topics": [
                   "admin-template",
                   "django",
@@ -78,7 +78,7 @@
                 "open_issues": 7,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3744,
+                "stars": 3745,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -162,7 +162,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-01T13:54:03Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "fabiocaccamo",
                 "repo": "django-admin-interface",
                 "stars": 2050,
@@ -235,7 +235,7 @@
                 "open_issues": 0,
                 "owner": "otto-torino",
                 "repo": "django-baton",
-                "stars": 996,
+                "stars": 997,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -256,7 +256,7 @@
                 "open_issues": 14,
                 "owner": "douglasmiranda",
                 "repo": "django-admin-bootstrap",
-                "stars": 876,
+                "stars": 875,
                 "topics": [
                   "admin",
                   "bootstrap",
@@ -332,7 +332,7 @@
                 "id": 770247041,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-27T17:45:30Z",
+                "last_commit": "2026-11-03T12:39:31Z",
                 "open_issues": 0,
                 "owner": "SmartBase-SK",
                 "repo": "django-smartbase-admin",
@@ -446,8 +446,8 @@
                 "id": 907262,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-02T18:06:34Z",
-                "open_issues": 43,
+                "last_commit": "2026-11-03T19:55:03Z",
+                "open_issues": 42,
                 "owner": "jazzband",
                 "repo": "django-tinymce",
                 "stars": 1355,
@@ -710,7 +710,7 @@
                 "id": 37767159,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2023-08-10T12:40:54Z",
+                "last_commit": "2026-11-04T09:03:08Z",
                 "open_issues": 24,
                 "owner": "django-admin-tools",
                 "repo": "django-admin-tools",
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T09:41:32.437Z",
+    "last_updated": "2026-11-04T09:27:21.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
