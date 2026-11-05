@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "sehmaschine",
                 "repo": "django-grappelli",
-                "stars": 3945,
+                "stars": 3946,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -42,7 +42,7 @@
                 "open_issues": 7,
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3833,
+                "stars": 3834,
                 "topics": [
                   "admin-template",
                   "django",
@@ -78,7 +78,7 @@
                 "open_issues": 7,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3745,
+                "stars": 3746,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T09:27:21.419Z",
+    "last_updated": "2026-11-05T09:36:51.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
