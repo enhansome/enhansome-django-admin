@@ -42,7 +42,7 @@
                 "open_issues": 7,
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3834,
+                "stars": 3835,
                 "topics": [
                   "admin-template",
                   "django",
@@ -74,11 +74,11 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-01T09:33:35Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-06T14:44:15Z",
+                "open_issues": 10,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3748,
+                "stars": 3749,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -207,7 +207,7 @@
                 "open_issues": 177,
                 "owner": "farridav",
                 "repo": "django-jazzmin",
-                "stars": 1884,
+                "stars": 1885,
                 "topics": [
                   "admin",
                   "adminlte",
@@ -231,8 +231,8 @@
                 "id": 81565159,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-05T11:37:44Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-06T14:13:14Z",
+                "open_issues": 1,
                 "owner": "otto-torino",
                 "repo": "django-baton",
                 "stars": 997,
@@ -332,7 +332,7 @@
                 "id": 770247041,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T12:39:31Z",
+                "last_commit": "2026-11-06T13:46:32Z",
                 "open_issues": 0,
                 "owner": "SmartBase-SK",
                 "repo": "django-smartbase-admin",
@@ -669,7 +669,7 @@
                 "open_issues": 36,
                 "owner": "ivelum",
                 "repo": "djangoql",
-                "stars": 1144,
+                "stars": 1145,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T09:29:49.580Z",
+    "last_updated": "2026-11-07T08:54:39.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
