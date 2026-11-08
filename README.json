@@ -207,7 +207,7 @@
                 "open_issues": 177,
                 "owner": "farridav",
                 "repo": "django-jazzmin",
-                "stars": 1885,
+                "stars": 1884,
                 "topics": [
                   "admin",
                   "adminlte",
@@ -502,7 +502,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-08T14:22:29Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "jmrivas86",
                 "repo": "django-json-widget",
                 "stars": 507,
@@ -553,7 +553,7 @@
                 "open_issues": 5,
                 "owner": "EduardoJM",
                 "repo": "django-image-uploader-widget",
-                "stars": 64,
+                "stars": 63,
                 "topics": [
                   "django",
                   "django-admin",
@@ -587,10 +587,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-05T20:44:36Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
-                "stars": 3334,
+                "stars": 3332,
                 "topics": [
                   "csv",
                   "django",
@@ -639,7 +639,7 @@
                 "open_issues": 12,
                 "owner": "TrangPham",
                 "repo": "django-admin-confirm",
-                "stars": 138,
+                "stars": 137,
                 "topics": [
                   "django-admin"
                 ]
@@ -714,7 +714,7 @@
                 "open_issues": 24,
                 "owner": "django-admin-tools",
                 "repo": "django-admin-tools",
-                "stars": 887,
+                "stars": 888,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T08:54:39.233Z",
+    "last_updated": "2026-11-08T09:09:39.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
@@ -801,7 +801,7 @@
       "open_issues": 2,
       "owner": "originalankur",
       "repo": "awesome-django-admin",
-      "stars": 1235,
+      "stars": 1234,
       "topics": [
         "article",
         "awesome",
