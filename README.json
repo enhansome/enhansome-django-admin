@@ -42,7 +42,7 @@
                 "open_issues": 7,
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3834,
+                "stars": 3833,
                 "topics": [
                   "admin-template",
                   "django",
@@ -78,7 +78,7 @@
                 "open_issues": 14,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3751,
+                "stars": 3753,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -284,7 +284,7 @@
                 "open_issues": 40,
                 "owner": "assem-ch",
                 "repo": "django-jet-reboot",
-                "stars": 496,
+                "stars": 497,
                 "topics": [
                   "django",
                   "django-admin",
@@ -471,7 +471,7 @@
                 "open_issues": 11,
                 "owner": "fabiocaccamo",
                 "repo": "django-colorfield",
-                "stars": 658,
+                "stars": 659,
                 "topics": [
                   "admin",
                   "color",
@@ -526,7 +526,7 @@
                 "open_issues": 48,
                 "owner": "bhch",
                 "repo": "django-jsonform",
-                "stars": 427,
+                "stars": 428,
                 "topics": [
                   "admin",
                   "django",
@@ -586,8 +586,8 @@
                 "id": 6704888,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-08T18:37:59Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-09T22:31:01Z",
+                "open_issues": 12,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
                 "stars": 3332,
@@ -742,7 +742,7 @@
                 "open_issues": 4,
                 "owner": "ebertti",
                 "repo": "django-admin-easy",
-                "stars": 501,
+                "stars": 502,
                 "topics": [
                   "django",
                   "django-admin",
@@ -769,7 +769,7 @@
                 "open_issues": 4,
                 "owner": "dizballanze",
                 "repo": "django-admin-env-notice",
-                "stars": 343,
+                "stars": 344,
                 "topics": [
                   "django",
                   "django-admin",
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T09:57:05.912Z",
+    "last_updated": "2026-11-10T09:59:15.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
