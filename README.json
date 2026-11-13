@@ -42,7 +42,7 @@
                 "open_issues": 7,
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3832,
+                "stars": 3831,
                 "topics": [
                   "admin-template",
                   "django",
@@ -78,7 +78,7 @@
                 "open_issues": 15,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3759,
+                "stars": 3761,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -141,7 +141,7 @@
                 "open_issues": 302,
                 "owner": "darklow",
                 "repo": "django-suit",
-                "stars": 2402,
+                "stars": 2401,
                 "topics": [
                   "django",
                   "django-admin"
@@ -501,8 +501,8 @@
                 "id": 91264973,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-12T09:54:39Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-12T10:04:16Z",
+                "open_issues": 0,
                 "owner": "jmrivas86",
                 "repo": "django-json-widget",
                 "stars": 507,
@@ -590,7 +590,7 @@
                 "open_issues": 14,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
-                "stars": 3332,
+                "stars": 3333,
                 "topics": [
                   "csv",
                   "django",
@@ -690,7 +690,7 @@
                 "open_issues": 19,
                 "owner": "dmpayton",
                 "repo": "django-admin-honeypot",
-                "stars": 1081,
+                "stars": 1082,
                 "topics": [
                   "django",
                   "python"
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T09:56:07.148Z",
+    "last_updated": "2026-11-13T09:42:10.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
