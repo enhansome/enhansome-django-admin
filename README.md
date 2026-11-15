@@ -12,7 +12,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 * [Django-material](https://github.com/viewflow/django-material) ⭐ 2,530 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-02
 * [django-suit](https://github.com/darklow/django-suit) ⭐ 2,401 | 🐛 302 | 🌐 SCSS | 📅 2025-05-27
 * [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,049 | 🐛 22 | 🌐 Python | 📅 2026-11-01
-* [django-jazzmin](https://github.com/farridav/django-jazzmin) ⭐ 1,886 | 🐛 177 | 🌐 HTML | 📅 2026-06-25
+* [django-jazzmin](https://github.com/farridav/django-jazzmin) ⭐ 1,887 | 🐛 177 | 🌐 HTML | 📅 2026-06-25
 * [django-baton](https://github.com/otto-torino/django-baton) ⭐ 997 | 🐛 1 | 🌐 Python | 📅 2026-11-06
 * [django-admin-bootstrap](https://github.com/django-admin-bootstrap/django-admin-bootstrap) ⚠️ Archived
 * [django-jet-reboot](https://github.com/assem-ch/django-jet-reboot) ⭐ 497 | 🐛 40 | 🌐 CSS | 📅 2026-02-01
@@ -24,7 +24,7 @@ Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, 
 
 ### Widgets / Fields
 
-* [django-simple-captcha](https://github.com/mbi/django-simple-captcha) ⭐ 1,419 | 🐛 38 | 🌐 Python | 📅 2026-11-14 - Add captcha images to any Django form
+* [django-simple-captcha](https://github.com/mbi/django-simple-captcha) ⭐ 1,419 | 🐛 37 | 🌐 Python | 📅 2026-11-14 - Add captcha images to any Django form
 * [django-tinymce](https://github.com/jazzband/django-tinymce) ⭐ 1,355 | 🐛 42 | 🌐 JavaScript | 📅 2026-11-11 - TinyMCE text editor integration for Django
 * [django-colorfield](https://github.com/fabiocaccamo/django-colorfield) ⭐ 659 | 🐛 11 | 🌐 Python | 📅 2026-11-01 - Color field for django models with a nice color-picker in the admin
 * [django-json-widget](https://github.com/jmrivas86/django-json-widget) ⭐ 507 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - An alternative widget that makes it easy to edit the Django's JSONField
@@ -43,7 +43,7 @@ Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) 
 
 * [djangoql](https://github.com/ivelum/djangoql) ⭐ 1,145 | 🐛 36 | 🌐 Python | 📅 2026-01-27 - Advanced search language for Django
 * [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot/) ⭐ 1,082 | 🐛 19 | 🌐 Python | 📅 2024-04-10 - A fake Django admin login screen to notify admins of attempted unauthorized access.
-* [django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) ⭐ 888 | 🐛 24 | 🌐 Python | 📅 2026-11-04 - Collection of extensions/tools for the default django administration interface.
+* [django-admin-tools](https://github.com/django-admin-tools/django-admin-tools) ⭐ 889 | 🐛 24 | 🌐 Python | 📅 2026-11-04 - Collection of extensions/tools for the default django administration interface.
 * [django-admin-easy](https://github.com/ebertti/django-admin-easy) ⭐ 502 | 🐛 4 | 🌐 Python | 📅 2025-03-06 - Collection of admin fields and decorators to help to create computed or custom fields more friendly and easy way Edit
 * [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) ⭐ 345 | 🐛 4 | 🌐 Python | 📅 2026-01-22 - Visually distinguish environments in Django Admin
 * [djangocontrolroom](https://djangocontrolroom.com) - Django Control Room is a suite of self-hosted admin panels for Django. It gives you real-time visibility into Redis, Celery, caching, URLs, signals, and errors, all inside your existing Django admin.
@@ -89,4 +89,4 @@ Visit [DjangoPackages.com](https://djangopackages.org/grids/g/admin-interface/) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
