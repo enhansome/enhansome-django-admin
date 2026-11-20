@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "sehmaschine",
                 "repo": "django-grappelli",
-                "stars": 3947,
+                "stars": 3948,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -42,7 +42,7 @@
                 "open_issues": 7,
                 "owner": "newpanjing",
                 "repo": "simpleui",
-                "stars": 3831,
+                "stars": 3832,
                 "topics": [
                   "admin-template",
                   "django",
@@ -75,10 +75,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-17T10:23:38Z",
-                "open_issues": 11,
+                "open_issues": 10,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
-                "stars": 3770,
+                "stars": 3769,
                 "topics": [
                   "admin",
                   "alpinejs",
@@ -204,10 +204,10 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-06-25T21:05:32Z",
-                "open_issues": 177,
+                "open_issues": 178,
                 "owner": "farridav",
                 "repo": "django-jazzmin",
-                "stars": 1889,
+                "stars": 1888,
                 "topics": [
                   "admin",
                   "adminlte",
@@ -256,7 +256,7 @@
                 "open_issues": 14,
                 "owner": "douglasmiranda",
                 "repo": "django-admin-bootstrap",
-                "stars": 876,
+                "stars": 875,
                 "topics": [
                   "admin",
                   "bootstrap",
@@ -284,7 +284,7 @@
                 "open_issues": 40,
                 "owner": "assem-ch",
                 "repo": "django-jet-reboot",
-                "stars": 497,
+                "stars": 496,
                 "topics": [
                   "django",
                   "django-admin",
@@ -425,7 +425,7 @@
                 "open_issues": 37,
                 "owner": "mbi",
                 "repo": "django-simple-captcha",
-                "stars": 1420,
+                "stars": 1419,
                 "topics": [
                   "captcha",
                   "django",
@@ -471,7 +471,7 @@
                 "open_issues": 11,
                 "owner": "fabiocaccamo",
                 "repo": "django-colorfield",
-                "stars": 659,
+                "stars": 658,
                 "topics": [
                   "admin",
                   "color",
@@ -526,7 +526,7 @@
                 "open_issues": 48,
                 "owner": "bhch",
                 "repo": "django-jsonform",
-                "stars": 429,
+                "stars": 428,
                 "topics": [
                   "admin",
                   "django",
@@ -586,11 +586,11 @@
                 "id": 6704888,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-16T17:18:45Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-19T18:25:38Z",
+                "open_issues": 14,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
-                "stars": 3334,
+                "stars": 3333,
                 "topics": [
                   "csv",
                   "django",
@@ -690,7 +690,7 @@
                 "open_issues": 19,
                 "owner": "dmpayton",
                 "repo": "django-admin-honeypot",
-                "stars": 1084,
+                "stars": 1083,
                 "topics": [
                   "django",
                   "python"
@@ -711,10 +711,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-04T09:03:08Z",
-                "open_issues": 24,
+                "open_issues": 23,
                 "owner": "django-admin-tools",
                 "repo": "django-admin-tools",
-                "stars": 890,
+                "stars": 889,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -742,7 +742,7 @@
                 "open_issues": 4,
                 "owner": "ebertti",
                 "repo": "django-admin-easy",
-                "stars": 502,
+                "stars": 501,
                 "topics": [
                   "django",
                   "django-admin",
@@ -769,7 +769,7 @@
                 "open_issues": 4,
                 "owner": "dizballanze",
                 "repo": "django-admin-env-notice",
-                "stars": 345,
+                "stars": 343,
                 "topics": [
                   "django",
                   "django-admin",
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T10:28:47.918Z",
+    "last_updated": "2026-11-20T10:09:36.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
@@ -801,7 +801,7 @@
       "open_issues": 2,
       "owner": "originalankur",
       "repo": "awesome-django-admin",
-      "stars": 1234,
+      "stars": 1235,
       "topics": [
         "article",
         "awesome",
