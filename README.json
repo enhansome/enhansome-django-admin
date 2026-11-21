@@ -74,8 +74,8 @@
                 "id": 526497574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-17T10:23:38Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-20T14:53:45Z",
+                "open_issues": 13,
                 "owner": "unfoldadmin",
                 "repo": "django-unfold",
                 "stars": 3769,
@@ -505,7 +505,7 @@
                 "open_issues": 0,
                 "owner": "jmrivas86",
                 "repo": "django-json-widget",
-                "stars": 507,
+                "stars": 508,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -587,10 +587,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-19T18:25:38Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "django-import-export",
                 "repo": "django-import-export",
-                "stars": 3333,
+                "stars": 3335,
                 "topics": [
                   "csv",
                   "django",
@@ -669,7 +669,7 @@
                 "open_issues": 36,
                 "owner": "ivelum",
                 "repo": "djangoql",
-                "stars": 1145,
+                "stars": 1147,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:24:52.771Z"
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T10:09:36.515Z",
+    "last_updated": "2026-11-21T09:56:41.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.",
